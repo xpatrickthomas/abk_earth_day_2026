@@ -1,6 +1,8 @@
 # Itinerary
 
 ## Index
+**★ [Actions](#actions) ↗**
+
 **★** **[Actions](#actions) ↗** <br>
 **♥** **[Activities](#activities) ↗** <br>
 **♺** **[Exchanges](#exchanges) ↗** <br>
