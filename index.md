@@ -2,7 +2,7 @@
 
 ## Index
 **★** **[Actions](#01-action) ↗ <br>**
-**[02 Activities](#02-activities) ↗ <br>**
+**♥** **[02 Activities](#02-activities) ↗ <br>**
 **[03 Exchanges](#03-exchanges) ↗ <br>**
 **[04 Exhibits](#04-exhibits) ↗ <br>**
 **[05 Installations](#05-installations) ↗ <br>**
