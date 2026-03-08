@@ -36,12 +36,12 @@ Participation **All visitors to ABK Earth Day** <br>
 **• 08:00–22:00** <br> 
 Open call to all participants and visitors to **wear blue clothing** to show support for ABK Earth Day<br>
 
-**4. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
+**4. Recycled Plastics** <br>
+By **Michael Daniel, ID students**<br>
+**• Werkstattbau** <br>
+**• Raum 203** <br>
+**• 10:00–17:00** <br> 
+Description will appear here<br>
 
 **5. Title** <br>
 By **Name**<br>
