@@ -15,7 +15,7 @@
 
 ## ★ Actions
 
-### 1. Knitting – Knowledge Transfer** <br>
+### 1. Knitting – Knowledge Transfer <br>
 In collaboration with **Local Knitting Associations** <br>
 **• Neubau 1** <br>
 **• Glaskasten** <br>
@@ -29,7 +29,7 @@ By **Gerwin Schmidt** <br>
 **• 13:00–15:00** <br> 
 Homemade soup for guest participants of **Knitting – Knowledge Transfer**<br>
 
-**3. Blue clothing** <br>
+### 3. Blue clothing <br>
 Participation **All visitors to ABK Earth Day** <br>
 **• Campus** <br>
 **• Campus Weißenhof** <br>
