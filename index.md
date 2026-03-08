@@ -65,7 +65,7 @@ Organised by **Michaela Wirsig**<br>
 A friendly information point featuring the 17 UN Development Goals and current sustainable projects that are thematically related to ABK Stuttgart
 
 **8. Title** <br>
-By ** [Jack Taylor] (https://www.jacktaylor.eu/)
+By **[Jack Taylor] (https://www.jacktaylor.eu/)**
 
 
 [[https://www.jacktaylor.eu/|Jack Taylor]] ** ↗ & **[[https://jaydanielwright.com//|Jay Wright]]** ↗ <br>
