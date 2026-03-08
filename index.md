@@ -336,12 +336,13 @@ Coordination: **Patrick Thomas** & **Veronika Aumann** <br>
 
 ## ☆ Performances
 
-**☆1. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
+**☆1. Elephant in the Room** <br>
+By **Jerry Ahn**, **Seonha Park**<br>(& **Jessica Lipp**)<br>
+**• Bildhauerbau** <br>
+**• Raum 28** <br>
+**• 14:00–19:00** <br> 
+A five-hour sound performance of anxiety, boredom, joy and hope. <br>
+The live sound performance will be recorded by **Jessica Lipp**,**[Fullbeansradio](https://www.fullbeansradio.com/)**↗ <br>
 
 **☆2. Title** <br>
 By **Name**<br>
