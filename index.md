@@ -66,9 +66,6 @@ A friendly information point featuring the 17 UN Development Goals and current s
 
 **8. Title** <br>
 By **[Jack Taylor](https://www.jacktaylor.eu/)** & **[Jay Wright](https://jaydanielwright.com)** <br>
-
-
-[[https://www.jacktaylor.eu/|Jack Taylor]] ** ↗ & **[[https://jaydanielwright.com//|Jay Wright]]** ↗ <br>
 **• Campus** <br>
 **• Campus Weißenhof** <br>
 **• 10:00–18:00** <br> 
