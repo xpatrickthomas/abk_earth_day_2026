@@ -74,19 +74,19 @@ By **[Jack Taylor](https://www.jacktaylor.eu/)** & **[Jay Wright](https://jaydan
 **• 10:00–18:00** <br> 
 Description will appear here
 
-**9. [Title]** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description
+**9. Kippenmüll** <br>
+Organised by **Yeliz Kiliçaslan**<br>
+**• Neubau 1** <br>
+**• AKAffee** <br>
+**• 17:00** <br> 
+Ein einziger Stummel kann bis zu 1.000 Liter Wasser vergiften, tötet Wasserorganismen und führt zu Mikroplastikbelastung. Daher wird unter der Aktion **Kippenmüll** Zigarettenstümmel gesammelt und in den Müll geworfen.
 
-**10. [Title]** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description
+**10. Flag Intervention** <br>
+By **Textile design**<br>
+**• Campus Weißenhof** <br>
+**• Haupteingang** <br>
+**• 08:00–23:59** <br> 
+"Leave no trace" intervention on the academy flags
 
 **↗ [Back to Index](#index)**
 
