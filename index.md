@@ -94,33 +94,38 @@ By the **Textile design department**<br>
 
 ## ♥ Activities
 
-**♥1. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
+**♥1. Gentle Morning Flow (Yoga)** <br>
+Led by **Nadine Bracht**<br>
+**• Altbau** <br>
+**• Raum 213 – Fotostudio** <br>
+**• 08:30–09:30** <br> 
+Ein sanfter Yoga Flow am Morgen, der Dich präsent und gut geerdet in den ABK Earth Day starten lässt. Für alle Levels geeignet. • *Bitte bringe eine Matte und eine Decke mit*<br>
 
-**♥2. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
+**♥2. Eco-Kino** <br>
+Curated by **Carsten Fuhrmann**<br>
+**• Neubau 2** <br>
+**• Vortragssaal** <br>
+**• 18:00–20:00** <br> 
+Programme will follow here<br>
 
-**♥3. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
+**♥3. Public Talks** <br>
+By **Speakers’ names**<br>
+**• Neubau 2** <br>
+**• Vortragssaal** <br>
+**• 10:00–17:00** <br> 
+Programme will follow here<br>
 
-**♥4. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
+**♥4. Fairies ’n Gnomes Bodypaint Picnic** <br>
+Organised by **Michelle Neumann**<br>
+**• Campus** <br>
+**• Garten** <br>
+**• 12:00–14:00 (Open end)** <br> 
+Lust auf Sonne im Gesicht, Picknickdecken im Gras, gute Gespräche und ein bisschen Magie? Dann komm vorbei beim Fairies ’n Gnomes Bodypaint Picnic 🌸
+Ein gemütliches Picnic, bei dem wir zusammen entspannen, quatschen, snacken und kreativ werden.<br>
+Das Herzstück: Body- & Facepainting, bei dem du dich in eine Fee oder einen Gnom verwandeln lassen kannst – oder selbst mitpinseln darfst 🎨✨<br>
+In alten Mythen sind Feen und Gnome kleine Waldwesen, die sich liebevoll um ihre Umgebung kümmern. Genau diese Idee nehmen wir mit in unseren Alltag: Wir werden zu urbanen Stadtfeen, die achtsam durch den Stuttgarter Großstadtdschungel flatter…<br>
+• Es werden für Kissen und Decken gesorgt als gatheringpoint
+<br>
 
 **♥5. Title** <br>
 By **Name**<br>
