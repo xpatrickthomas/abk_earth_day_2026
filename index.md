@@ -378,19 +378,22 @@ Description
 
 ## ■ Workshops
 
-**■1. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
+**■1. Bike Repair Workshop** <br>
+Organised by **TBA**<br>
+**• Neubau 1** <br>
+**• TBA** <br>
+**• 10:00–16:00** <br> 
+Description will appear here<br>
 
-**■2. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
+**■2. Textile Dyeing with Plants** <br>
+Hosted by **Rosa Marlene Altmann**<br>
+**• Keramikbau** <br>
+**• Auf dem Hof** <br>
+**• 12:00–14:00** <br> 
+In diesem Workshop kann jeder (min.) ein Stück Textil mit einem Färbesud aus Pflanzen färben. Du lernst wie man ein Textil zum Färben vorbereitet, den Färbesud selber herstellt und wie der Färbevorgang abläuft. <br>
+Textil und Färbematerial sind gestellt. Achte darauf Arbeitskleidung oder nichts neues/helles anzuziehen. <br>
+Anmeldung vor Ort oder über [Rosa Marlene Altmann](mailto:rosa@juergenaltmann.com) ↗ <br>
+• Teilnehmende: 3 (Min.) / 10 (Max.)<br>
 
 **■3. Title** <br>
 By **Name**<br>
