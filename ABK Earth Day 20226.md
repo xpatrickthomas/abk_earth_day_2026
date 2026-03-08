@@ -27,4 +27,4 @@ Click [Chapter 2](#chapter-2) to continue, or [Back to Welcome](#welcome).
 This is the second chapter.  
 We wrap up the discussion here.
 
-Click [Back to Chapter 1](#chapter-1) or [Back to Introduction](#introduction).
+Click [Back to Chapter 1](#chapter-1) or [Back to Welcome](#welcome).
