@@ -2,14 +2,13 @@
 
 ## Index
 **★ [Actions](#actions) ↗**
-
-**★** **[Actions](#actions) ↗** <br>
-**♥** **[Activities](#activities) ↗** <br>
-**♺** **[Exchanges](#exchanges) ↗** <br>
-**■** **[Exhibits](#exhibits) ↗** <br>
-**●** **[Installations](#installations) ↗** <br>
-**✤** **[Performances](#performances) ↗** <br>
-**▲** **[Workshops](#workshops) ↗** <br>
+**★ [Actions](#actions) ↗**
+**♥ [Activities](#activities) ↗**
+**♺ [Exchanges](#exchanges) ↗**
+**■ [Exhibits](#exhibits) ↗**
+**● [Installations](#installations) ↗**
+**✤ [Performances](#performances) ↗**
+**▲ [Workshops](#workshops) ↗**
 
 ---
 
