@@ -4,10 +4,10 @@
 **★ [Actions](#-actions) ↗** <br>
 **♥ [Activities](#-activities) ↗** <br>
 **♺ [Exchanges](#-exchanges) ↗** <br>
-**■ [Exhibits](#-exhibits) ↗** <br>
+**▣ [Exhibits](#-exhibits) ↗** <br>
 **● [Installations](#-installations) ↗** <br>
-**▣ [Performances](#-performances) ↗** <br>
-**▲ [Workshops](#-workshops) ↗** <br>
+**▲ [Performances](#-performances) ↗** <br>
+**■ [Workshops](#-workshops) ↗** <br>
 
 ---
 
@@ -174,7 +174,7 @@ In collaboration with <br>
 
 ---
 
-## ■ Exhibits
+## ▣ Exhibits
 Exhibits list here
 
 **[Title here]** <br>
@@ -264,7 +264,7 @@ In collaboration with <br>
 
 ---
 
-## ▣ Performances
+## ▲ Performances
 Performances list here
 
 **[Title here]** <br>
@@ -309,7 +309,7 @@ In collaboration with <br>
 
 ---
 
-## ▲ Workshops
+## ■ Workshops
 Workshops list here
 
 **[Title here]** <br>
