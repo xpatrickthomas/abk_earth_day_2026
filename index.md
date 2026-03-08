@@ -49,6 +49,8 @@ Actions list here
 **Time: [Time here]** <br> 
 **Description: [Description here]** <br>
 
+In collaboration with **Local Knitting Associations** & **ABK Stuttgart**
+
 **[Back to Index](#index) ↗**
 
 ---
