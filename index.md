@@ -1,7 +1,7 @@
 # Itinerary
 
 ## Index
-**[01 Actions](#01-action) ↗ <br>**
+**★** **[Actions](#01-action) ↗ <br>**
 **[02 Activities](#02-activities) ↗ <br>**
 **[03 Exchanges](#03-exchanges) ↗ <br>**
 **[04 Exhibits](#04-exhibits) ↗ <br>**
@@ -11,7 +11,7 @@
 
 ---
 
-## 01 Actions
+## ★ Actions
 Actions list here
 
 **[Back to Index](#index) ↗**
