@@ -6,7 +6,7 @@
 **♺ [Exchanges](#-exchanges) ↗** <br>
 **▣ [Exhibits](#-exhibits) ↗** <br>
 **● [Installations](#-installations) ↗** <br>
-**⛯ [Performances](#-performances) ↗** <br>
+**❋ [Performances](#-performances) ↗** <br>
 **■ [Workshops](#-workshops) ↗** <br>
 
 ---
@@ -259,7 +259,7 @@ In collaboration with <br>
 
 ---
 
-## ✰ Performances
+## ❋ Performances
 
 **[Title here]** <br>
 **[Name here]** <br>
