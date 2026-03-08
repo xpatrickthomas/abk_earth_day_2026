@@ -133,6 +133,7 @@ By **Name**<br>
 Description
 
 **[Back to Index](#index) ↗**
+
 ---
 
 ### ▣ Exhibits
@@ -255,6 +256,7 @@ By **Name**<br>
 Description
 
 **[Back to Index](#index) ↗**
+
 ---
 
 ### ■ Workshops
