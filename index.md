@@ -15,14 +15,14 @@
 
 ## ★ Actions
 
-**1. <ins>Knitting – Knowledge Transfer<ins>** <br>
+**1. Knitting – Knowledge Transfer** <br>
 In collaboration with **Local Knitting Associations** <br>
 **• Neubau 1** <br>
 **• Glaskasten** <br>
 **• 12:00–17:00** <br> 
 A knitting circle bringing together experienced knitters and ABK students and staff, fostering community, sustainability, and creativity through conversation, shared experiences and skills. <br>
 
-**2. <ins>Soup-action<ins>** <br>
+**2. Soup-action** <br>
 By **Gerwin Schmidt** <br>
 **• Neubau 1** <br>
 **• Glaskasten** <br>
