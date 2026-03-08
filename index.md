@@ -355,6 +355,10 @@ Description
 ## Timetable
 
 
+| Time          | Activity      | Location      | Room         |
+| :------------ | :------------ | :------------ | :------------|   
+| 08:30–09:30   | Yoga          | Altbau        | Raum 213     |
+| 10:00–18:00   | Exhibitions   | Various       | Various      |
 
 
 
