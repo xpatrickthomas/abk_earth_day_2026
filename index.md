@@ -320,7 +320,7 @@ By **[Chris Kabel](https://www.chriskabel.com/)** <br>
 **• TBA** <br>
 **• 10:00–18:00** <br> 
 The Dutch word “Klinker” means sintered brick. Developed to inspire inhabitants to guide plants along the façades of their dwellings, the special bricks may be embedded in walls, each having a hole that allows plants to be attached with a cord.<br>
-**[More information](https://www.chriskabel.com/Binder-Klinker)**↗ <br>
+**[More information](https://www.chriskabel.com/Binder-Klinker)** ↗ <br>
 
 **●12. C-KLT 6428 – Multi-use Modular Construction System** <br>
 
