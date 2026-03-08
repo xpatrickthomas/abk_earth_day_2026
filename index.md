@@ -21,42 +21,42 @@ Actions list here
 ## 02 Activities
 Activities list here
 
-[Back to Index](#index)
+**[Back to Index](#index) ↗**
 
 ---
 
 ## 03 Exchanges
 Exchanges list here
 
-[Back to Index](#index)
+**[Back to Index](#index) ↗**
 
 ---
 
 ## 04 Exhibits
 Exhibits list here
 
-[Back to Index](#index)
+**[Back to Index](#index) ↗**
 
 ---
 
 ## 05 Installations
 Exchanges list here
 
-[Back to Index](#index)
+**[Back to Index](#index) ↗**
 
 ---
 
 ## 06 Exchanges
 Exchange list here
 
-[Back to Index](#index)
+**[Back to Index](#index) ↗**
 
 ---
 
 ## 07 Workshops
 Workshops list here
 
-[Back to Index](#index)
+**[Back to Index](#index) ↗**
 
 ---
 
