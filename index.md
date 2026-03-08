@@ -14,6 +14,41 @@
 ## ★ Actions
 Actions list here
 
+**Title: [Title here]** <br>
+**Author: [Name here]** <br>
+**Building: [Location here]** <br>
+**Room: [Room here]** <br>
+**Time: [Time here]** <br> 
+**Description: [Description here]** <br>
+
+**Title: [Title here]** <br>
+**Author: [Name here]** <br>
+**Building: [Location here]** <br>
+**Room: [Room here]** <br>
+**Time: [Time here]** <br> 
+**Description: [Description here]** <br>
+
+**Title: [Title here]** <br>
+**Author: [Name here]** <br>
+**Building: [Location here]** <br>
+**Room: [Room here]** <br>
+**Time: [Time here]** <br> 
+**Description: [Description here]** <br>
+
+**Title: [Title here]** <br>
+**Author: [Name here]** <br>
+**Building: [Location here]** <br>
+**Room: [Room here]** <br>
+**Time: [Time here]** <br> 
+**Description: [Description here]** <br>
+
+**Title: [Title here]** <br>
+**Author: [Name here]** <br>
+**Building: [Location here]** <br>
+**Room: [Room here]** <br>
+**Time: [Time here]** <br> 
+**Description: [Description here]** <br>
+
 **[Back to Index](#index) ↗**
 
 ---
