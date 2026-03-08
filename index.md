@@ -9,10 +9,7 @@
 **☆ [Performances](#-performances) ↗** <br>
 **■ [Workshops](#-workshops) ↗** <br>
 
----
-
-> [!NOTE]
-> **Back to [ABK Earth Day Map](https://link.earthday.art/abk_earth_day_2026_map) ↗**
+**↗ [ABK Earth Day Map](https://link.earthday.art/abk_earth_day_2026_map)**
 
 ---
 
