@@ -330,7 +330,7 @@ Description<br>
 **■5. Title** <br>
 By **Name**<br>
 **• Location** <br>
-**• Room** <br>🎂
+**• Room** <br>
 **• Time** <br> 
 Description
 
