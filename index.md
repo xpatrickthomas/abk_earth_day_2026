@@ -22,36 +22,33 @@ In collaboration with **Local Knitting Associations** <br>
 **• 12:00–17:00** <br> 
 A knitting circle bringing together experienced knitters and ABK students and staff, fostering community, sustainability, and creativity through conversation, shared experiences and skills. <br>
 
-**2. Title here** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**2. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**3. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**4. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
-
-In collaboration with <br>
-**Name here** & **Name here**
+**5. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description
 
 **[Back to Index](#index) ↗**
 
@@ -59,43 +56,40 @@ In collaboration with <br>
 
 ### ♥ Activities
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**1. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**2. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**3. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**4. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
-
-In collaboration with <br>
-**Name here** & **Name here**
+**5. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description
 
 **[Back to Index](#index) ↗**
 
@@ -103,87 +97,80 @@ In collaboration with <br>
 
 ### ♺ Exchanges
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**1. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**2. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**3. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**4. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
-
-In collaboration with <br>
-**Name here** & **Name here**
+**5. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description
 
 **[Back to Index](#index) ↗**
-
 ---
 
 ### ▣ Exhibits
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**1. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**2. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**3. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**4. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
-
-In collaboration with <br>
-**Name here** & **Name here**
+**5. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description
 
 **[Back to Index](#index) ↗**
 
@@ -191,43 +178,40 @@ In collaboration with <br>
 
 ### ● Installations
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**1. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**2. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**3. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**4. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
-
-In collaboration with <br>
-**Name here** & **Name here**
+**5. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description
 
 **[Back to Index](#index) ↗**
 
@@ -235,87 +219,80 @@ In collaboration with <br>
 
 ### ☆ Performances
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**1. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**2. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**3. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**4. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
-
-In collaboration with <br>
-**Name here** & **Name here**
+**5. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description
 
 **[Back to Index](#index) ↗**
-
 ---
 
 ### ■ Workshops
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**1. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**2. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**3. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**4. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
-
-In collaboration with <br>
-**Name here** & **Name here**
+**5. Title** <br>
+By **Name**<br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description
 
 **[Back to Index](#index) ↗**
 
