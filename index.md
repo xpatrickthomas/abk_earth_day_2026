@@ -44,32 +44,35 @@ By **Michael Daniel, ID students**<br>
 Description will appear here<br>
 
 **5. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description
+By **Organiser’s name**<br>
+**• Werkstattbau** <br>
+**• Raum 000** <br>
+**• 10:00–17:00** <br> 
+Description will appear here<br>
 
 **6. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description
+By **Organiser’s name**<br>
+**• Werkstattbau** <br>
+**• Raum 000** <br>
+**• 10:00–17:00** <br> 
+Description will appear here<br>
 
-**7. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description
+**7. 17 UN Goals and the Topic of Sustainability** <br>
+Organised by **Michaela Wirsig**<br>
+**• Neubau 2** <br>
+**• Foyer – Nam June Paik Videowall** <br>
+**• 11:00–15:00** <br> 
+A friendly information point featuring the 17 UN Development Goals and current sustainable projects that are thematically related to ABK Stuttgart
 
 **8. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description
+By ** [Jack Taylor] (https://www.jacktaylor.eu/)
+
+
+[[https://www.jacktaylor.eu/|Jack Taylor]] ** ↗ & **[[https://jaydanielwright.com//|Jay Wright]]** ↗ <br>
+**• Campus** <br>
+**• Campus Weißenhof** <br>
+**• 10:00–18:00** <br> 
+Description will appear here
 
 **9. Title** <br>
 By **Name**<br>
