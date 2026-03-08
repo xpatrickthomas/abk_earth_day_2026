@@ -3,8 +3,8 @@
 ## Index
 **★** **[Actions](#★-actions) ↗ <br>**
 **♥** **[Activities](#02-activities) ↗ <br>**
-** ** **[Exchanges](#03-exchanges) ↗ <br>**
-** ** **[Exhibits](#04-exhibits) ↗ <br>**
+**♺** **[Exchanges](#♺-exchanges) ↗ <br>**
+**■** **[Exhibits](#■-exhibits) ↗ <br>**
 ** ** **[Installations](#05-installations) ↗ <br>**
 ** ** **[Exchanges](#06-exchanges) ↗ <br>**
 ** ** **[Workshops](#07-workshops) ↗ <br>**
@@ -25,14 +25,14 @@ Activities list here
 
 ---
 
-## 03 Exchanges
+## ♺ Exchanges
 Exchanges list here
 
 **[Back to Index](#index) ↗**
 
 ---
 
-## 04 Exhibits
+## ■ Exhibits
 Exhibits list here
 
 **[Back to Index](#index) ↗**
