@@ -327,7 +327,7 @@ By **[Duo UFO](https://www.instagram.com/duo_ufo/)** **Jonathan Ohr** & **Nikita
 **• Campus** <br>
 **• Hof** <br>
 **• 10:00–20:00** <br>
-Inauguration of Multi-use Modular Construction System supplied by ABK Klimaschutz <br>
+Inauguration of Multi-use Modular Construction System supplied by **ABK Klimaschutz** <br>
 Coordination: **Patrick Thomas** & **Veronika Aumann** <br>
 
 **↗ [Back to Index](#index)**
