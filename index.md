@@ -43,14 +43,14 @@ By **Michael Daniel, ID students**<br>
 **• 10:00–17:00** <br> 
 Description will appear here<br>
 
-**5. Title** <br>
+**5. [Title]** <br>
 By **Organiser’s name**<br>
 **• Werkstattbau** <br>
 **• Raum 000** <br>
 **• 10:00–17:00** <br> 
 Description will appear here<br>
 
-**6. Title** <br>
+**6. [Title]** <br>
 By **Organiser’s name**<br>
 **• Werkstattbau** <br>
 **• Raum 000** <br>
