@@ -355,16 +355,13 @@ Description
 ## Timetable
 
 
-| Time            | Activity        | Location        | Room         |
-| :------------   | :------------   | :------------   | :------------|   
-| 08:30–09:30     | Yoga            | Altbau          | Raum 213     |
-| See Itinerary   | Actions         | Various         | Various      |
-| See Itinerary   | Activities      | Various         | Various      |
-| See Itinerary   | Exchanges       | Various         | Various      |
-| See Itinerary   | Exhibits        | Various         | Various      |
-| See Itinerary   | Installations   | Various         | Various      |
-| See Itinerary   | Performances    | Various         | Various      |
-| See Itinerary   | Workshops       | Various         | Various      |
+| Time            | Activity         | Location        | Room          |
+| :------------   | :------------    | :------------   | :------------ |   
+| 08:30–09:30     | Yoga             | Altbau          | Raum 213      |
+| 08:30–09:30     | Public Talks     | Altbau          | Raum 213      |
+| 17:00–17:30     | Award Ceremony   | Campus          | Garten        |
+| 17:30–18:00     | Earth Day Tree   | Campus          | Garten        |
+| 18:00–20:00     | Eco-Kino         | Neubau 2        | Vortragssaal  |
 
 
 
