@@ -14,42 +14,43 @@
 ## ★ Actions
 Actions list here
 
-**Title: [Title here]** <br>
-**Author: [Name here]** <br>
-**Building: [Location here]** <br>
-**Room: [Room here]** <br>
-**Time: [Time here]** <br> 
-**Description: [Description here]** <br>
+**[Title here]** <br>
+**[Name here]** <br>
+**[Location here]** <br>
+**[Room here]** <br>
+**[Time here]** <br> 
+**[Description here]** <br>
 
-**Title: [Title here]** <br>
-**Author: [Name here]** <br>
-**Building: [Location here]** <br>
-**Room: [Room here]** <br>
-**Time: [Time here]** <br> 
-**Description: [Description here]** <br>
+**[Title here]** <br>
+**[Name here]** <br>
+**[Location here]** <br>
+**[Room here]** <br>
+**[Time here]** <br> 
+**[Description here]** <br>
 
-**Title: [Title here]** <br>
-**Author: [Name here]** <br>
-**Building: [Location here]** <br>
-**Room: [Room here]** <br>
-**Time: [Time here]** <br> 
-**Description: [Description here]** <br>
+**[Title here]** <br>
+**[Name here]** <br>
+**[Location here]** <br>
+**[Room here]** <br>
+**[Time here]** <br> 
+**[Description here]** <br>
 
-**Title: [Title here]** <br>
-**Author: [Name here]** <br>
-**Building: [Location here]** <br>
-**Room: [Room here]** <br>
-**Time: [Time here]** <br> 
-**Description: [Description here]** <br>
+**[Title here]** <br>
+**[Name here]** <br>
+**[Location here]** <br>
+**[Room here]** <br>
+**[Time here]** <br> 
+**[Description here]** <br>
 
-**Title: [Title here]** <br>
-**Author: [Name here]** <br>
-**Building: [Location here]** <br>
-**Room: [Room here]** <br>
-**Time: [Time here]** <br> 
-**Description: [Description here]** <br>
+**[Title here]** <br>
+**[Name here]** <br>
+**[Location here]** <br>
+**[Room here]** <br>
+**[Time here]** <br> 
+**[Description here]** <br>
 
-In collaboration with **Local Knitting Associations** & **ABK Stuttgart**
+In collaboration with <br>
+**Name here** & **Name here**
 
 **[Back to Index](#index) ↗**
 
