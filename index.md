@@ -129,8 +129,6 @@ By **Name**<br>
 **• Time** <br> 
 Description
 
-<br>
-
 **↗ [Back to Index](#index)**
 
 ---
@@ -171,8 +169,6 @@ By **Name**<br>
 **• Room** <br>
 **• Time** <br> 
 Description
-
-<br>
 
 **↗ [Back to Index](#index)**
 
@@ -215,8 +211,6 @@ By **Name**<br>
 **• Time** <br> 
 Description
 
-<br>
-
 **↗ [Back to Index](#index)**
 
 ---
@@ -257,8 +251,6 @@ By **Name**<br>
 **• Room** <br>
 **• Time** <br> 
 Description
-
-<br>
 
 **↗ [Back to Index](#index)**
 
@@ -301,8 +293,6 @@ By **Name**<br>
 **• Time** <br> 
 Description
 
-<br>
-
 **↗ [Back to Index](#index)**
 
 ---
@@ -343,8 +333,6 @@ By **Name**<br>
 **• Room** <br>🎂
 **• Time** <br> 
 Description
-
-<br>
 
 **↗ [Back to Index](#index)**
 
