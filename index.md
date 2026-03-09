@@ -134,12 +134,10 @@ Rektorin ABK Stuttgart
 **Jury Members**
 
 Art <br>
-**Dr. Elke Allgaier** & **Ilona Lütken** <br>
-[Archiv Sohm – Staatsgalerie](https://www.staatsgalerie.de/de/sammlung/themen/kunstarchive)<br>
+**Dr. Elke Allgaier** & **Ilona Lütken** [Archiv Sohm – Staatsgalerie](https://www.staatsgalerie.de/de/sammlung/themen/kunstarchive)<br>
 
 Science <br>
-**Anja Necker** <br>
-[[https://mwk.baden-wuerttemberg.de/de/hochschulen-studium/klimaschutz-an-hochschulen/klimaschutzmanager|Klimaschutzmanagerin der Landes HS Esslingen]]
+**Anja Necker** [Klimaschutzmanagerin der Landes HS Esslingen](https://mwk.baden-wuerttemberg.de/de/hochschulen-studium/klimaschutz-an-hochschulen/klimaschutzmanager)
 
 Design <br>
 **Oliver Krimmel** <br>
