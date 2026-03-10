@@ -16,6 +16,7 @@
 
 ---
 
+**[Contact](#contact) ↗** <br>
 **[Credits](#credits) ↗** <br>
 **[Impressum](#impressum) ↗** <br>
 
@@ -432,6 +433,15 @@ Either we help you install Linux – great on MacBooks – or we help to delete 
 | 18:00–<br>20:00     | Eco-Kino                      | Neubau 2<br>Vortragssaal  |
 
 **↗ [Back to Index](#index)**
+
+---
+
+## Contact
+**[Participants](mailto:patrick.thomas@abk-stuttgart.de)** ↗ <br>
+**[Feedback](mailto:patrick.thomas@abk-stuttgart.de)** ↗ <br>
+**[Educator enquiry](mailto:patrick.thomas@abk-stuttgart.de)** ↗ <br>
+**[Press enquiry](mailto:patrick.thomas@abk-stuttgart.de)** ↗ <br>
+**[Sponsorship](mailto:patrick.thomas@abk-stuttgart.de)** ↗ <br>
 
 ---
 
