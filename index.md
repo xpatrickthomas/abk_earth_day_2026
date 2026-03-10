@@ -482,7 +482,7 @@ Patrick Thomas <br>
 Grimmstraße 18 <br> 
 10967 Berlin <br>
 
-Kontakt <br>
+**Kontakt** <br>
 [patrick.thomas@abk-stuttgart.de](mailto:patrick.thomas@abk-stuttgart.de) <br> 
 +49 (0)151 50430994 <br>
 
