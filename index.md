@@ -477,12 +477,17 @@ Organised by <br>
 
 ---
 
+**[GitHub](https://github.com/about)** is a collaborative platform for hosting and managing code, widely used in software development and education. This educational website is published using **[GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages))** to share learning resources and examples openly with the public. By using this site, you acknowledge that content is delivered through GitHub’s infrastructure and subject to their applicable privacy and data protection policies.
+
+---
+
 ### Impressum
 
 **Angaben gemäß § 5 TMG** <br>
 Patrick Thomas <br>
-Grimmstraße 18 <br> 
-10967 Berlin <br>
+Staatliche Akademie der Bildenden Künste Stuttgart <br>
+Am Weißenhof 1 <br>
+70191 Stuttgart <br>
 
 **Kontakt** <br>
 [patrick.thomas@abk-stuttgart.de](mailto:patrick.thomas@abk-stuttgart.de) <br> 
@@ -490,14 +495,15 @@ Grimmstraße 18 <br>
 
 **Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV** <br>
 Patrick Thomas <br>
-Grimmstraße 18 <br> 
-10967 Berlin <br>
+Staatliche Akademie der Bildenden Künste Stuttgart <br>
+Am Weißenhof 1 <br>
+70191 Stuttgart <br>
+
+Tel.: +49 711 28440-0 <br>
 
 **Haftungsausschluss / Disclaimer** <br>
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. 
 Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. <br>
-
-**USt-ldNr.: DE295403211** <br>
 
 **↗ [Back to Index](#index)**
 
