@@ -13,6 +13,7 @@
 
 **[ABK Earth Day Map](https://link.earthday.art/abk_earth_day_2026_map) ↗** <br>
 **[Key Events](#key-events) ↗** <br>
+**[Credits](#credits) ↗** <br>
 
 ---
 
@@ -458,4 +459,15 @@ Description
 | 17:30–<br>18:00     | Earth Day<br>Tree 🎂          | Campus<br>Garten          |
 | 18:00–<br>20:00     | Eco-Kino                      | Neubau 2<br>Vortragssaal  |
 
+**↗ [Back to Index](#index)**
+
+---
+
+## Credits
+
+Organised by <br>
+**Patrick Thomas** <br>
+**Veronika Aumann** <br>
+
+**↗ [Back to Index](#index)**
 
