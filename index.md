@@ -467,6 +467,9 @@ Event planning <br>
 Campus Management <br>
 **• Thomas Kieninger**, **• Giuseppe Solarino** **• Edith Benedikt**, **Manfred Benedikt**, **Daniel Drechsler**, **Angelo Evangelista**, **Jens Faigle**, **Marc Fischer**, **Christopher Ulmer** <br>
 
+Campus Cleaning Personnel <br>
+**Sokrates Dienstleistungen GmbH**
+
 **↗ [Back to Index](#index)**
 
 ---
