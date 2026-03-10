@@ -437,11 +437,11 @@ Either we help you install Linux – great on MacBooks – or we help to delete 
 ---
 
 ## Contact
-**[Participants](mailto:patrick.thomas@abk-stuttgart.de)** ↗ <br>
-**[Feedback](mailto:patrick.thomas@abk-stuttgart.de)** ↗ <br>
-**[Educator enquiry](mailto:patrick.thomas@abk-stuttgart.de)** ↗ <br>
-**[Press enquiry](mailto:patrick.thomas@abk-stuttgart.de)** ↗ <br>
-**[Sponsorship](mailto:patrick.thomas@abk-stuttgart.de)** ↗ <br>
+**• [Participants](mailto:patrick.thomas@abk-stuttgart.de)** ↗ <br>
+**• [Feedback](mailto:patrick.thomas@abk-stuttgart.de)** ↗ <br>
+**• [Educator enquiry](mailto:patrick.thomas@abk-stuttgart.de)** ↗ <br>
+**• [Press enquiry](mailto:patrick.thomas@abk-stuttgart.de)** ↗ <br>
+**• [Sponsorship](mailto:patrick.thomas@abk-stuttgart.de)** ↗ <br>
 
 **↗ [Back to Index](#index)**
 
