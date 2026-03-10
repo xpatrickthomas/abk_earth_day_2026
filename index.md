@@ -469,8 +469,8 @@ Communication <br>
 Event planning <br>
 **• Marion Butsch** <br>
 
-Next year's edition of ABK Earth Day will
-take place on **Thursday 22 April 2027**
+Next year's edition of ABK Earth Day <br>
+will take place on **Thursday 22 April 2027** <br>
 
 **↗ [Back to Index](#index)**
 
