@@ -437,11 +437,11 @@ Either we help you install Linux – great on MacBooks – or we help to delete 
 ---
 
 ## Contact
-**• [Participants](mailto:patrick.thomas@abk-stuttgart.de)** ↗ <br>
-**• [Feedback](mailto:patrick.thomas@abk-stuttgart.de)** ↗ <br>
-**• [Educator enquiry](mailto:patrick.thomas@abk-stuttgart.de)** ↗ <br>
-**• [Press enquiry](mailto:patrick.thomas@abk-stuttgart.de)** ↗ <br>
-**• [Sponsorship](mailto:patrick.thomas@abk-stuttgart.de)** ↗ <br>
+**• [Participants](mailto:patrick.thomas@abk-stuttgart.de?subject=ABK%20Earth%20Day%202026:%20Participants&body=Thank%20you%20for%20your%20message:)** ↗ <br>
+**• [Feedback](mailto:patrick.thomas@abk-stuttgart.de?subject=ABK%20Earth%20Day%202026:%20Feedback&body=Thank%20you%20for%20your%20message:)** ↗ <br>
+**• [Educator enquiry](mailto:patrick.thomas@abk-stuttgart.de?subject=ABK%20Earth%20Day%202026:%20Educator%20enquiry&body=Thank%20you%20for%20your%20message:)** ↗ <br>
+**• [Press enquiry](mailto:patrick.thomas@abk-stuttgart.de?subject=ABK%20Earth%20Day%202026:%20Press%20enquiry&body=Thank%20you%20for%20your%20message:)** ↗ <br>
+**• [Sponsorship](mailto:patrick.thomas@abk-stuttgart.de?subject=ABK%20Earth%20Day%202026:%20Sponsorship&body=Thank%20you%20for%20your%20message:)** ↗ <br>
 
 **↗ [Back to Index](#index)**
 
