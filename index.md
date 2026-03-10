@@ -446,10 +446,10 @@ Description<br>
 **■4. Bring Your Own Hardware – Linux installation and/or data delete** <br>
 With **Anton Linus Schwarz** & **Atelier Digitale Souveränität**<br>
 **• Neubau 2** <br>
-**• Raum 0.14 – Atelier Digitale Souveränität** <br>
+**• Raum 0.14 –** **[Atelier Digitale Souveränität](https://www.abk-stuttgart.de/news/abk-stuttgart-hfg-karlsruhe-und-kunstakademie-karlsruhe-erhalten-foerderung-im-rahmen-der-ausschreibung-lehrarchitektur/)** <br>
 **• 11:00–16:00** <br> 
 Either we help you install Linux – great on MacBooks – or we help to delete your data and guide you to trashing it safely.<br>
-**•** Organised by **[Atelier Digitale Souveränität](https://www.abk-stuttgart.de/news/abk-stuttgart-hfg-karlsruhe-und-kunstakademie-karlsruhe-erhalten-foerderung-im-rahmen-der-ausschreibung-lehrarchitektur/)** <br>
+**•** Organised by **Atelier Digitale Souveränität** <br>
 
 **■5. Title** <br>
 By **Name**<br>
