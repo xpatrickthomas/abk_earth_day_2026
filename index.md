@@ -423,13 +423,6 @@ With **Anton Linus Schwarz** & **Atelier Digitale Souveränität**<br>
 Either we help you install Linux – great on MacBooks – or we help to delete your data and guide you to trashing it safely.<br>
 **•** Organised by **Atelier Digitale Souveränität** <br>
 
-**■5. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description
-
 **↗ [Back to Index](#index)**
 
 ---
