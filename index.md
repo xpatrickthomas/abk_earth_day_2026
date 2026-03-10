@@ -503,7 +503,7 @@ Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber veran
 
 ---
 
-**[GitHub](https://github.com/about)** is a collaborative platform for hosting and managing code, widely used in software development and education. This educational website is published using **[GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages)** to share learning resources and examples openly with the public. By using this site, you acknowledge that content is delivered through GitHub’s infrastructure and subject to their applicable privacy and data protection policies.
+**GitHub** is a collaborative platform for hosting and managing code, widely used in software development and education. This educational website is published using **GitHub Pages** to share learning resources and examples openly with the public. By using this site, you acknowledge that content is delivered through GitHub’s infrastructure and subject to their applicable privacy and data protection policies.
 
 **↗ [Back to Index](#index)**
 
