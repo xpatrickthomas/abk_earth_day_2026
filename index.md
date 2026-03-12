@@ -285,7 +285,7 @@ By **Lisa Wedler** (Klasse Choi)<br>
 **• 10:00–18:00** <br> 
 Installation mit verschiedene Erde auf der Wiese<br>
 
-**●3. [Title]** <br>
+**●3. Lichtermeer (or: Iso. R. 4s14m6M)** <br>
 By **Birk Hinnersmann** (Klasse Choi)<br>
 **• Neubau2** <br>
 **• Raum 01.17 – Video-/ Foto-Aufnahmestudio** <br>
