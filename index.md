@@ -13,6 +13,7 @@
 
 **[ABK Earth Day Map](https://link.earthday.art/abk_earth_day_2026_map) ↗** <br>
 **[Key Events](#key-events) ↗** <br>
+**[Public Talks, etc.](#public-talks,-etc.) ↗** <br>
 
 ---
 
@@ -433,6 +434,12 @@ Either we help you install Linux – great on MacBooks – or we help to delete 
 | 18:00–<br>20:00     | Eco-Kino                      | Neubau 2<br>Vortragssaal  |
 
 **↗ [Back to Index](#index)**
+
+---
+
+## Public Talks, etc.
+
+[Programme coming soon]
 
 ---
 
