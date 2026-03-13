@@ -13,7 +13,7 @@
 
 **[ABK Earth Day Map](https://link.earthday.art/abk_earth_day_2026_map) ↗** <br>
 **[Key Events](#key-events) ↗** <br>
-**[Public Talks, etc.](#public-talks,-etc.) ↗** <br>
+**[Public Talks, etc.](#public-talks-etc.) ↗** <br>
 
 ---
 
