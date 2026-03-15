@@ -449,15 +449,15 @@ Description will appear here<br>
 
 [Programme coming soon]
 
-| Time            | Format                   | Title<br>Presenter/s                                                                        |  Description     |
-| :-------------  | :------------            | :------------                                                                               | :-----------     |
-| 10:00–<br>10:25 | Vortrag / Talk<br>DE/EN  |                                                                                             |                  | 
-| 10:30–<br>11:00 | Vortrag / Talk<br>DE/EN  |                                                                                             |                  | 
-| 11:00–<br>11:55 | Podiumdiskussion<br>DE   | Musik und Natur<br>Daniel Martin Feige, Gesa zur Nieden, +2                                 |                  |
-| 00:00–<br>00:00 | Vortrag / Talk<br>DE/EN  | Sustainable paper production<br>Axel Scheufelen, [Metapaper](https://www.metapaper.io/) ↗   |                  |
-| 00:00–<br>00:00 | Vortrag / Talk<br>DE/EN  | A few thoughts I stole that have helped me to face the climate crisis so far                |                  | 
-| 00:00–<br>00:00 | Vortrag / Talk<br>DE/EN  |                                                                                             |                  | 
-| 00:00–<br>00:00 | Vortrag / Talk<br>DE/EN  |                                                                                             |                  | 
+| Time            | Format                  | Title<br>Presenter/s                                                                        |  Description     |
+| :-------------  | :------------           | :------------                                                                               | :-----------     |
+| 10:00–<br>10:25 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
+| 10:30–<br>11:00 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
+| 11:00–<br>11:55 | Podiumdiskussion<br>DE  | Musik und Natur<br>Daniel Martin Feige, Gesa zur Nieden, +2                                 |                  |
+| 00:00–<br>00:00 | Vortrag/Talk<br>DE      | Sustainable paper production<br>Axel Scheufelen, [Metapaper](https://www.metapaper.io/) ↗   |                  |
+| 00:00–<br>00:00 | Vortrag/Talk<br>DE      | A few thoughts I stole that have helped me to face the climate crisis so far                |                  | 
+| 00:00–<br>00:00 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
+| 00:00–<br>00:00 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
 
 **↗ [Back to Index](#index)**
 
