@@ -441,7 +441,7 @@ Either we help you install Linux – great on MacBooks – or we help to delete 
 | 08:30–<br>09:30     | Gentle Morning<br>Flow (Yoga) | Altbau<br>Raum 213        |
 | 10:00–<br>17:00     | Public<br>Talks               | Neubau 2<br>Vortragssaal  |
 | 17:00–<br>17:30     | Award<br>Ceremony             | Campus<br>Garten          |
-| 17:30–<br>18:00     | Earth Day<br>Tree 🎂          | Campus<br>Garten          |
+| 17:30–<br>18:00     | Birthday 🎂<br>Earth DayTree  | Campus<br>Garten          |
 | 18:00–<br>20:00     | Eco-Kino                      | Neubau 2<br>Vortragssaal  |
 
 **↗ [Back to Index](#index)**
