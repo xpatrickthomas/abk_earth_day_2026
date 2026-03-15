@@ -452,12 +452,17 @@ Description will appear here<br>
 | Time            | Format                  | Title<br>Presenter/s                                                                        |  Description     |
 | :-------------  | :------------           | :------------                                                                               | :-----------     |
 | 10:00–<br>10:25 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
-| 10:30–<br>11:00 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
+| 10:30–<br>10:55 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
 | 11:00–<br>11:55 | Podiumdiskussion<br>DE  | Musik und Natur<br>Daniel Martin Feige, Gesa zur Nieden, +2                                 |                  |
-| 00:00–<br>00:00 | Vortrag/Talk<br>DE      | Sustainable paper production<br>Axel Scheufelen, [Metapaper](https://www.metapaper.io/) ↗   |                  |
-| 00:00–<br>00:00 | Vortrag/Talk<br>DE      | A few thoughts I stole that have helped me to face the climate crisis so far                |                  | 
-| 00:00–<br>00:00 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
-| 00:00–<br>00:00 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
+| 12:00–<br>12:25 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
+| 13:00–<br>13:25 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
+| 13:30–<br>13:55 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
+| 14:00–<br>14:25 | Vortrag/Talk<br>DE      | Sustainable paper production<br>Axel Scheufelen, [Metapaper](https://www.metapaper.io/) ↗   |                  |
+| 14:30–<br>14:55 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
+| 15:00–<br>15:25 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
+| 15:30–<br>15:55 | Vortrag/Talk<br>DE      | A few thoughts I stole that have helped me to face the climate crisis so far                |                  | 
+| 16:00–<br>16:25 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
+| 16:30–<br>16:55 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
 
 **↗ [Back to Index](#index)**
 
