@@ -449,13 +449,13 @@ Description will appear here<br>
 
 [Programme coming soon]
 
-| Time                | Participants               | Title                     |  Description     |
-| :------------       | :------------              | :-------------------      |  :-----------    | 
-| 00:00–00:00         |                            |                           |                  | 
-| 00:00–00:00         |                            |                           |                  | 
-| 00:00–00:00         |                            |                           |                  | 
-| 00:00–00:00         |                            |                           |                  | 
-| 00:00–00:00         |                            |                           |                  | 
+| Time        | Format           | Title                                                                        | Presenter/s               |  Description     |
+| :---------- | :------------    | :------------                                                                | :-------------------      |  :-----------    | 
+| 00:00–00:00 | Podiumdiskussion | Musik und Natur                                                              |                           |                  | 
+| 00:00–00:00 | Vortrag / Talk   | Sustainable industrial paper production                                      |                           |                  | 
+| 00:00–00:00 | Vortrag / Talk   | A few thoughts I stole that have helped me to face the climate crisis so far |                           |                  | 
+| 00:00–00:00 | Vortrag / Talk   |                                                                              |                           |                  | 
+| 00:00–00:00 | Vortrag / Talk   |                                                                              |                           |                  | 
 
 **↗ [Back to Index](#index)**
 
