@@ -444,7 +444,7 @@ Either we help you install Linux – great on MacBooks – or we help to delete 
 ## Public Talks, etc.
 **• Neubau 2** <br>
 **• Vortragssaal** <br>
-**• 10:00–17:00**(?) <br> 
+**• 10:00–17:00** <br> 
 Description will appear here<br>
 
 [Programme coming soon]
@@ -466,7 +466,7 @@ Curated by **Carsten Fuhrmann** <br>
 Künstlerisch-technischer Lehrer in der Werkstatt für Audiovision und Video im Studiengang Kommunikationsdesign in der Fachgruppe Design <br>
 **• Neubau 2** <br>
 **• Vortragssaal** <br>
-**• 18:00–20:00**(?) <br> 
+**• 18:00–20:00** <br> 
 Description will appear here<br>
 
 | Time                | Title                      | Description               | Year       |
