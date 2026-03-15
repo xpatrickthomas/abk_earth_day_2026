@@ -579,6 +579,3 @@ Next year's edition of ABK Earth Day <br>
 will take place on **Thursday 22 April 2027** <br>
 
 ---
-
-# Title \test
-
