@@ -449,13 +449,13 @@ Description will appear here<br>
 
 [Programme coming soon]
 
-| Time        | Format                     | Title<br>Presenter/s                                                          |  Description     |
-| :---------- | :------------              | :------------                                                                 | :-----------     |
-| 00:00–00:00 | Podiumdiskussion<br>[DE]   | Musik und Natur                                                               |                  |
-| 00:00–00:00 | Vortrag / Talk<br>[DE/EN ] | Sustainable industrial paper production                                       |                  |
-| 00:00–00:00 | Vortrag / Talk<br>[DE/EN ] | A few thoughts I stole that have helped me to face the climate crisis so far  |                  | 
-| 00:00–00:00 | Vortrag / Talk<br>[DE/EN ] |                                                                               |                  | 
-| 00:00–00:00 | Vortrag / Talk<br>[DE/EN ] |                                                                               |                  | 
+| Time            | Format                   | Title<br>Presenter/s                                                          |  Description     |
+| :-------------  | :------------            | :------------                                                                 | :-----------     |
+| 00:00–<br>00:00 | Podiumdiskussion<br>DE   | Musik und Natur                                                               |                  |
+| 00:00–<br>00:00 | Vortrag / Talk<br>DE/EN  | Sustainable industrial paper production                                       |                  |
+| 00:00–<br>00:00 | Vortrag / Talk<br>DE/EN  | A few thoughts I stole that have helped me to face the climate crisis so far  |                  | 
+| 00:00–<br>00:00 | Vortrag / Talk<br>DE/EN  |                                                                               |                  | 
+| 00:00–<br>00:00 | Vortrag / Talk<br>DE/EN  |                                                                               |                  | 
 
 **↗ [Back to Index](#index)**
 
