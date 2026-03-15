@@ -276,54 +276,54 @@ Description will appear here<br>
 
 ## ● Installations
 
-**●1. The only thing I know / I want a lot** 2026 <br>
+**●1. The only thing I know / I want a lot**, 2026 <br>
 By **Lisa Helene Wedler** & **Mira Traub** <br>
 (Klasse Choi)<br>
 **• Neubau 2** <br>
 **• 1.25 – Kopierraum** <br>
 **• 10:00–18:00** <br> 
-Videoprojektion<br>
+[DE/EN] Short description will appear here<br>
 
-**●2. Muttererde** 2026 <br>
+**●2. Muttererde**, 2026 <br>
 By **Lisa Helene Wedler** <br>
 (Klasse Choi) <br>
 **• (Vor dem) Altbau** <br>
 **• Wiese direkt vor dem Haupteingang** <br>
 **• 10:00–18:00** <br> 
-Installation mit verschiedene Erde auf der Wiese<br>
+[DE/EN] Short description will appear here<br>
 
-**●3. Lichtermeer (Iso. R. 4s14m6M)** 2025 <br>
+**●3. Lichtermeer (Iso. R. 4s14m6M)**, 2025 <br>
 By **Birk Hinnersmann** <br>
 (Klasse Choi) <br>
 **• Neubau2** <br>
 **• Raum 01.17 – Video-/ Foto-Aufnahmestudio** <br>
 **• 10:00–18:00** <br> 
-Holzskulptur mit LEDs, Arduino<br>
+[DE/EN] Short description will appear here<br>
 
-**●4. telling tales of utopia** 2026 <br>
+**●4. telling tales of utopia**, 2026 <br>
 By **Paula Bother** & **Rosa Klingelhöfer** <br>
 (Klasse Choi) <br>
 **• Neubau 2** <br>
 **• Foyer** <br>
 **• 10:00–18:00** <br> 
-5 Holzskulpturen mit handgeschöpfte Papiere<br>
+[DE/EN] Short description will appear here<br>
 
-**●5. BLAU MACHEN (recycelt)** 2026 <br>
+**●5. BLAU MACHEN (recycelt)**, 2026 <br>
 By **Klasse Choi**<br>
 **• Altbau** <br>
 **• Raum 223** <br>
 **• 10:00–20:00** <br> 
-Description will appear here
+[DE/EN] Short description will appear here<br>
 
-**●6. Einkehr** 2025 <br>
+**●6. Einkehr**, 2025 <br>
 By **Ava Will** <br>
 (Klasse Choi) <br>
 **• AKA-Garten** <br>
 **• (Vor dem) Glaskasten** <br>
 **• 10:00–18:00** <br> 
-Schneckenförmige Skulptur aus Stahl, bedeckt mit Erde und Moos
+[DE/EN] Short description will appear here<br>
 
-**●7. This Could Be Us** 2026 <br>
+**●7. This Could Be Us**, 2026 <br>
 By **Lorenzo Mastrosimone** <br>
 (Klasse Choi) <br>
 **• Altbau** <br>
@@ -331,20 +331,20 @@ By **Lorenzo Mastrosimone** <br>
 **• 10:00–20:00** <br> 
 A multi-channel sound installation, based on field recordings, that explores the impact of human intervention on our environment.
 
-**●8. Hause** 2025 <br>
+**●8. Hause**, 2025 <br>
 By **Dietke Hellwig** <br>
 (Klasse Choi) <br>
 **• Neubau 2** <br>
 **• Graben(?)** <br>
 **• 10:00–18:00** <br> 
-Holzschrank mit kleinen Objekten
+[DE/EN] Short description will appear here<br>
 
 **●9. EARTH PIECE<br>Listen to the sound of the earth turning.** <br>
 Coordination **Klasse Thomas**<br>
 **• Neubau 2** <br>
 **• 1UG – Graben** <br>
 **• 10:00–20:00** <br> 
-Description will appear here
+Short description will appear here<br>
 
 **●10. Bird Camp** <br>
 By **[Chris Kabel](https://www.chriskabel.com/)** <br>
