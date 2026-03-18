@@ -279,6 +279,14 @@ Organised by **Anna Lukasek** & **Elsa Weber**<br>
 **• 10:00–17:00** <br> 
 Description will appear here<br>
 
+**▣9. SORTED** <br>
+By **Klasse Lucienne Roberts** & **friends**<br>
+Organised by **Bastian Steinhauer** / **Lucienne Roberts**<br>
+**• Neubau 2** <br>
+**• Raum 1.14** <br>
+**• 10:00–17:00** <br> 
+We visit a local recycling facility. We document it in sound only. We make acoustic responses. Come and hear our Earth Day exhibition.<br>
+
 **↗ [Back to Index](#index)**
 
 ---
