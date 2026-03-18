@@ -473,7 +473,7 @@ Description will appear here<br>
 | 12:00–<br>12:25 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
 | 13:00–<br>13:25 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
 | 13:30–<br>13:55 | Vortrag/Talk<br>DE      | **HBKsaar**<br>Speakers: **Indra Kupferschmidt**, **Hei­ke Nehl** & **Si­byl­le Schlaich**<br>[Earth Infographics](https://www.hbksaar.de/vorlesungen/details/earth-infographics) ↗       |                  | 
-| 14:00–<br>14:25 | Vortrag/Talk<br>DE      | **Sustainable paper production**(prov.)<br>Speaker: **Axel Scheufelen**, [Metapaper](https://www.metapaper.io/) ↗       |         |
+| 14:00–<br>14:25 | Vortrag/Talk<br>DE      | **Sustainable paper production** (prov.)<br>Speaker: **Axel Scheufelen**, [Metapaper](https://www.metapaper.io/) ↗       |         |
 | 14:30–<br>14:55 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
 | 15:00–<br>15:25 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
 | 15:30–<br>15:55 | Vortrag/Talk<br>DE      | **A few thoughts I stole that have helped me to face the climate crisis so far**<br>Speaker: **Oona Leganovic**, CCC Löhrbach     |       | 
