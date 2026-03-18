@@ -472,7 +472,7 @@ Description will appear here<br>
 | 11:00–<br>11:55 | Podiumdiskussion<br>DE  | **Musik und Natur**<br>Speakers: **Daniel Martin Feige**, **Gesa zur Nieden**, +2                     |                  |
 | 12:00–<br>12:25 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
 | 13:00–<br>13:25 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
-| 13:30–<br>13:55 | Vortrag/Talk<br>DE      | **HBKsaar**<br>Speakers: **Indra Kupferschmidt**, **Hei­ke Nehl** & **Si­byl­le Schlaich** [Earth Infographics](https://www.hbksaar.de/vorlesungen/details/earth-infographics)) ↗       |                  | 
+| 13:30–<br>13:55 | Vortrag/Talk<br>DE      | **HBKsaar**<br>Speakers: **Indra Kupferschmidt**, **Hei­ke Nehl** & **Si­byl­le Schlaich**<br>[Earth Infographics](https://www.hbksaar.de/vorlesungen/details/earth-infographics) ↗       |                  | 
 | 14:00–<br>14:25 | Vortrag/Talk<br>DE      | **Sustainable paper production**(prov.)<br>Speaker: **Axel Scheufelen**, [Metapaper](https://www.metapaper.io/) ↗       |         |
 | 14:30–<br>14:55 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
 | 15:00–<br>15:25 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
