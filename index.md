@@ -456,8 +456,8 @@ Either we help you install Linux – great on MacBooks – or we help to delete 
 | :------------       | :------------                   | :-------------------      |   
 | 08:30–<br>09:30     | **Gentle Morning Flow (Yoga)**  | Altbau<br>Raum 213        |
 | 10:00–<br>17:00     | **Public Talks**                | Neubau 2<br>Vortragssaal  |
-| 17:00–<br>17:30     | **Earth Day Award Ceremony**    | Campus<br>Garten          |
-| 17:30–<br>18:00     | **Earth DayTree: Birthday** 🎂  | Campus<br>Garten          |
+| 17:00–<br>17:30     | **Earth Day Award Ceremony**    | Campus<br>im Hof          |
+| 17:30–<br>18:00     | **Earth DayTree: Birthday** 🎂  | Campus<br>im Hof          |
 | 18:00–<br>20:00     | **Eco-Kino**                    | Neubau 2<br>Vortragssaal  |
 
 **↖ [Back to Index](#index)**
