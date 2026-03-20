@@ -196,7 +196,7 @@ Connect with nature. Hug a tree! <br>
 **• 10:00–20:00**(?) <br>
 Description will appear here <br>
 
-**↗ [Back to Index](#index)**
+**↖ [Back to Index](#index)**
 
 ---
 
@@ -216,7 +216,7 @@ Organised by **TBA**<br>
 **• 10:00–17:00** <br> 
 Description will appear here<br>
 
-**↗ [Back to Index](#index)**
+**↖ [Back to Index](#index)**
 
 ---
 
@@ -286,7 +286,7 @@ Organised by **Bastian Steinhauer** / **Lucienne Roberts**<br>
 **• 10:00–17:00** <br> 
 We visit a local recycling facility. We document it in sound only. We make acoustic responses. Come and hear our Earth Day exhibition.<br>
 
-**↗ [Back to Index](#index)**
+**↖ [Back to Index](#index)**
 
 ---
 
@@ -386,7 +386,7 @@ By **[Duo UFO](https://www.instagram.com/duo_ufo/)** **Jonathan Ohr** & **Nikita
 Inauguration of Multi-use Modular Construction System supplied by **ABK Klimaschutz** <br>
 Coordination: **Patrick Thomas** & **Veronika Aumann** <br>
 
-**↗ [Back to Index](#index)**
+**↖ [Back to Index](#index)**
 
 ---
 
@@ -408,7 +408,7 @@ By **Mara Donata Ott** <br>
 Description will appear here<br>
 
 
-**↗ [Back to Index](#index)**
+**↖ [Back to Index](#index)**
 
 ---
 
@@ -446,7 +446,7 @@ With **Anton Linus Schwarz** & **Atelier Digitale Souveränität**<br>
 Either we help you install Linux – great on MacBooks – or we help to delete your data and guide you to trashing it safely.<br>
 **•** Organised by **Atelier Digitale Souveränität** <br>
 
-**↗ [Back to Index](#index)**
+**↖ [Back to Index](#index)**
 
 ---
 
@@ -460,7 +460,7 @@ Either we help you install Linux – great on MacBooks – or we help to delete 
 | 17:30–<br>18:00     | Birthday 🎂<br>Earth DayTree  | Campus<br>Garten          |
 | 18:00–<br>20:00     | Eco-Kino                      | Neubau 2<br>Vortragssaal  |
 
-**↗ [Back to Index](#index)**
+**↖ [Back to Index](#index)**
 
 ---
 
@@ -486,7 +486,7 @@ Either we help you install Linux – great on MacBooks – or we help to delete 
 | 16:00–<br>16:25 | Vortrag/Talk<br>DE      | **We Are Climate Neutral: How to Properly Recycle E-Scooters<br>An Artistic Intervention in Platform Capitalism**<br>Speaker: **Anton Linus**, Meisterschüler des Weißenhof-Programms<br>[Digitale Souveränität für Kunsthochschulen (DSK)](https://www.abk-stuttgart.de/news/abk-stuttgart-hfg-karlsruhe-und-kunstakademie-karlsruhe-erhalten-foerderung-im-rahmen-der-ausschreibung-lehrarchitektur/) ↗ | Description will appear here | 
 | 16:30–<br>16:55 | Vortrag/Talk<br>DE      |                                                                                             | Description will appear here |
 
-**↗ [Back to Index](#index)**
+**↖ [Back to Index](#index)**
 
 ---
 
@@ -517,7 +517,7 @@ Description will appear here<br>
 **• [Press enquiry](mailto:patrick.thomas@abk-stuttgart.de?subject=ABK%20Earth%20Day%202026:%20Press%20enquiry&body=Thank%20you%20for%20your%20message:)** ↗ <br>
 **• [Sponsorship](mailto:patrick.thomas@abk-stuttgart.de?subject=ABK%20Earth%20Day%202026:%20Sponsorship&body=Thank%20you%20for%20your%20message:)** ↗ <br>
 
-**↗ [Back to Index](#index)**
+**↖ [Back to Index](#index)**
 
 ---
 
@@ -556,7 +556,7 @@ Campus Management <br>
 Campus Cleaning Personnel <br>
 **• Sokrates Dienstleistungen GmbH**
 
-**↗ [Back to Index](#index)**
+**↖ [Back to Index](#index)**
 
 ---
 
@@ -589,7 +589,7 @@ Am Weißenhof 1 <br>
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. 
 Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. <br>
 
-**↗ [Back to Index](#index)**
+**↖ [Back to Index](#index)**
 
 ---
 
