@@ -570,6 +570,7 @@ Campus Cleaning Personnel <br>
 
 ### Impressum
 
+<small>
 **Angaben gemäß § 5 TMG** <br>
 Patrick Thomas <br>
 Staatliche Akademie der Bildenden Künste Stuttgart <br>
@@ -589,6 +590,7 @@ Am Weißenhof 1 <br>
 **Haftungsausschluss / Disclaimer** <br>
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. 
 Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. <br>
+</small>
 
 **↗ [Back to Index](#index)**
 
