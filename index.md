@@ -477,7 +477,7 @@ Either we help you install Linux – great on MacBooks – or we help to delete 
 | 10:00–<br>10:25 | Vortrag/Talk<br>DE      |                                                                                             | Description will appear here | 
 | 10:30–<br>10:55 | Vortrag/Talk<br>DE      |                                                                                             | Description will appear here | 
 | 11:00–<br>11:55 | Podiumdiskussion<br>DE  | **Musik und Natur**<br>Speakers: **Daniel Martin Feige**, **Gesa zur Nieden**, +2           | Description will appear here |
-| 12:00–<br>12:25 | Vortrag/Talk<br>DE      | **https://assemblag.es/@playinprogress** ↗<br>Speaker: **Oona Leganovic**                     | Description will appear here |
+| 12:00–<br>12:25 | Vortrag/Talk<br>DE      | **A few thoughts I stole that have helped me to face the climate crisis so far** <br>Speaker: **Oona Leganovic**, https://assemblag.es/@playinprogress ↗                   | Description will appear here |
 | 13:00–<br>13:25 | Vortrag/Talk<br>DE      |                                                                                             | Description will appear here | 
 | 13:30–<br>13:55 | Vortrag/Talk<br>DE      | **TBA**<br>Speakers: **Indra Kupferschmidt**, **Hei­ke Nehl** & **Si­byl­le Schlaich**<br> [HBKsaar/Earth_Infographics](https://www.hbksaar.de/vorlesungen/details/earth-infographics) ↗       | Description will appear here | 
 | 14:00–<br>14:25 | Vortrag/Talk<br>DE      | **Sustainable paper production** (prov.)<br>Speaker: **Axel Scheufelen**, [Metapaper](https://www.metapaper.io/) ↗       | Description will appear here |
