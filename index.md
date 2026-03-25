@@ -445,6 +445,14 @@ With **Anton Linus Schwarz** & **Atelier Digitale Souveränität**<br>
 Either we help you install Linux – great on MacBooks – or we help to delete your data and guide you to trashing it safely.<br>
 **•** Organised by **Atelier Digitale Souveränität** <br>
 
+**■3. Nie wieder langweilige Taschen und T-Shirts!** <br>
+Organised by **Marisa Sitzler**<br>
+**• Offen für alle**
+**• Neubau 2** <br>
+**• Raum 1.15** <br>
+**• 10:00–18:00**(?) <br> 
+Mit dem MiScreen kannst du instant A4-Drucksiebe herstellen und damit alles mögliche Bedrucken. Ähnlich wie du es vom Siebdrucken kennst. Mitbringen musst du nur ein altes Tshirt zum bedrucken und eine Grafik, als pdf oder jpg. Jeder entstandene Sieb wird in einer Mappe gesammelt, so haben andere später auch noch die Möglichkeit ihre alten Textilien mit deinem Motiv zu verschönern.<br>
+
 **↖ [Back to Index](#index)**
 
 ---
