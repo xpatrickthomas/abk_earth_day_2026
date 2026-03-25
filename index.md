@@ -347,12 +347,11 @@ By **Lorenzo Mastrosimone** <br>
 **• 10:00–20:00** <br> 
 A multi-channel sound installation, based on field recordings, that explores the impact of human intervention on our environment.
 
-**●8. Hause**, 2025 <br>
-By **Dietke Hellwig** <br>
-(Klasse Choi) <br>
-**• Neubau 2** <br>
-**• Graben(?)** <br>
-**• 10:00–18:00** <br> 
+**●8. TBC**, TBC <br>
+By **TBC** <br>
+**• TBC** <br>
+**• TBC** <br>
+**• TBC** <br> 
 [DE/EN] Short description will appear here<br>
 
 **●9. EARTH PIECE<br>Listen to the sound of the earth turning.** <br>
