@@ -485,7 +485,7 @@ Mit dem MiScreen kannst du instant A4-Drucksiebe herstellen und damit alles mög
 | 12:00–<br>12:25 | Vortrag/Talk<br>DE      | **A few thoughts I stole that have helped me to face the climate crisis so far** <br>Speaker: **[Oona Leganovic](https://assemblag.es/@playinprogress)** ↗ | Description will appear here |
 | 13:00–<br>13:25 | Vortrag/Talk<br>DE      |                                                                                             | Description will appear here | 
 | 13:30–<br>13:55 | Vortrag/Talk<br>DE      | **TBA**<br>Speakers: **Indra Kupferschmidt**, **Hei­ke Nehl** & **Si­byl­le Schlaich**<br> **[HBKsaar/Earth_Infographics](https://www.hbksaar.de/vorlesungen/details/earth-infographics)** ↗       | Description will appear here | 
-| 14:00–<br>14:25 | Vortrag/Talk<br>DE      | **Sustainable paper production** (prov.)<br>Speaker: **[Axel Scheufelen](https://www.metapaper.io/)** ↗ (Metapaper GmbH, Stuttgart) | Description will appear here |
+| 14:00–<br>14:25 | Vortrag/Talk<br>DE      | **Sustainable paper production** (prov.)<br>Speaker: **[Axel Scheufelen](https://www.metapaper.io/)** ↗ <br>Metapaper GmbH, Stuttgart | Description will appear here |
 | 14:30–<br>14:55 | Vortrag/Talk<br>DE      | **Yoko Ono / Fluxus** (prov.)<br>Speaker: **[Georg Winter](https://www.hbksaar.de/personen/details/winter)** ↗ | Description will appear here |
 | 15:00–<br>15:25 | Vortrag/Talk<br>DE      |                                                                                             | Description will appear here | 
 | 15:30–<br>15:55 | Vortrag/Talk<br>DE      |                                                                                             | Description will appear here | 
