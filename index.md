@@ -286,6 +286,14 @@ Organised by **Bastian Steinhauer** / **Lucienne Roberts**<br>
 **• 10:00–17:00** <br> 
 We visit a local recycling facility. We document it in sound only. We make acoustic responses. Come and hear our Earth Day exhibition.<br>
 
+**▣10. An ABK Earth Day Poster for 100 Years** <br>
+By **Max Reichert** & **Luis Schulte Kellinghaus**<br>
+With support from **Johannes Oestringer**<br>
+**• Altbau** <br>
+**• Raum 117/120 – Print Lab** <br>
+**• 10:00–17:00** <br> 
+A behind-the-scenes look into the creation of the iconic DIN A0 Letterpress Earth Day poster.<br>
+
 **↖ [Back to Index](#index)**
 
 ---
