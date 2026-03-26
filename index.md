@@ -331,7 +331,7 @@ By **Klasse Choi**<br>
 **• 10:00–20:00** <br> 
 Eine Rauminstallation, die mit wiederverwendetem Material ein Atelier in unwirkliches Licht taucht und zum Blaumachen einlädt. Eine subversiv reflektierte Geste und künstlerische Haltung zugleich.<br>
 
-**●6. Einkehr**, 2025 <br>
+**●6. Rückkehr**, 2026 <br>
 By **Ava Will** <br>
 (Klasse Choi) <br>
 **• AKA-Garten** <br>
