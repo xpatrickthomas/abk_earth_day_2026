@@ -480,8 +480,7 @@ Mit dem MiScreen kannst du instant A4-Drucksiebe herstellen und damit alles mög
 
 | Time            | Format                  | Title<br>Participant/s                                                                        |  Description     |
 | :-------------  | :------------           | :------------                                                                               | :-----------     |
-| 10:00–<br>10:25 | Vortrag/Talk<br>DE      |                                                                                             | Description will appear here | 
-| 10:30–<br>10:55 | Vortrag/Talk<br>DE      |                                                                                             | Description will appear here | 
+| 10:00–<br>10:55 | Vortrag/Talk<br>DE      | **Aufstieg und Fall des Khmer-Reiches**(prov.)<br>Speaker: **[Ole W. Fischer](https://www.abk-stuttgart.de/person/ole-w-fischer/)** ↗ | Description will appear here | 
 | 11:00–<br>11:55 | Podiumdiskussion<br>DE  | **Musik und Natur**<br>Speakers: **Daniel Martin Feige**, **Gesa zur Nieden**, +2           | Description will appear here |
 | 12:00–<br>12:25 | Vortrag/Talk<br>DE      | **A few thoughts I stole that have helped me to face the climate crisis so far** <br>Speaker: **Oona Leganovic**, https://assemblag.es/@playinprogress ↗                   | Description will appear here |
 | 13:00–<br>13:25 | Vortrag/Talk<br>DE      |                                                                                             | Description will appear here | 
