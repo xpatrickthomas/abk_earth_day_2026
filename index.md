@@ -115,6 +115,13 @@ Organised by **Paul Hanke** & **Pia Zerweck**<br>Participant/s: **Lovis Wolf**, 
 **• 11:00–13:00** <br> 
 Stuttgart braucht noch eine weitere Baustelle. Bau deinen Stuhl aus Schutt und setze dich zu uns. Dein Spatenstich für eine grünere AKA. Jeder versteigerte Stuhl bringt neue Pflanzen an den Campus. <br>
 
+**★12. Open-Source Kunst und Design (Zine)** <br>
+Organised by **Gabriella Bakos** <br>
+**• Haupteingänge / Main entrances: Altbau / Neubau 1 / Neubau 2 / Akafee / etc.** <br>
+**• 10:00–18:00** <br> 
+A zine introducing open source software that can be used by artist and designers for more digital sustainability. <br>
+The zines may be read at, or collected from the distribution points. <br>
+
 **↖ [Back to Index](#index)**
 
 ---
