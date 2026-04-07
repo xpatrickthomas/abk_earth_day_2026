@@ -418,6 +418,24 @@ Time-based installation. Lime stone, calcium oxide (burnt lime), microphones, he
 [DE] In einem ressourcenbegrenzten Ökosystem ist exponentielles Wachstum nicht möglich. Druck, der sich im Inneren aufbaut, spüren wir lange bevor wir ihn ausbrechen sehen. <br>
 [EN] In an ecosystem with limited resources, exponential growth is not possible. We feel the pressure building up inside long before we see it erupt. <br>
 
+**●14. ich moechte schreien** 2026 <br>
+By **[Lea Mina Rossatti](https://leaminarossatti.de)** ↗ <br>
+**• Bildhauergarten** <br>
+**• Steinwerkstatt (außen/outside)** <br>
+**• 10:00–22:00** <br>
+Participative sound installation. Embroidered fabric 4x6m, microphone/ field recorder, headphones <br>
+whenever I feel the signs
+lie down
+my skin, semi permeable 
+my arms, a shiver
+It is
+ringing ears, twitching eyelids
+I feel the earth is shaking
+grumbling, rumbling, trembling, humming, flowing, aching, thriving 
+and so am I 
+alive <br>
+
+
 
 **↖ [Back to Index](#index)**
 
