@@ -515,8 +515,8 @@ Mit dem MiScreen kannst du instant A4-Drucksiebe herstellen und damit alles mög
 **■6. Draw the Climate Crisis** <br>
 Hosted by **Maja Grandic**<br>
 **• Altbau** <br>
-**• Aktzeichensaal** <br>
-**• 10:00–17:00**(?) <br> 
+**• Raum XXX – Aktzeichensaal** <br>
+**• 10:00–17:00** <br> 
 In dem Workshop arbeiten wir bewusst mit Kohle, dem Material, das sinnbildlich für eine der Ursachen der Klimakrise steht. Was hier als Zeichenwerkzeug dient, ist zugleich ein Werkzeug für Ausbeutung, Emissionen und Umweltzerstörung. Somit nutzen wir das Produkt selbst, um auf seine Folgen aufmerksam zu machen. Die Spuren auf dem Blatt verweisen auf die realen Spuren in der Welt, wie verbrannte Landschaften, Kolonialismus, verschmutzte Luft, aufgeheizte Atmosphären, Kriege oder alles, was du selbst damit verbindest. <br>
 Komm am Earth Day vorbei und teile deine Gedanken. Du kannst bleiben, solange du willst oder einfach eine kleine Skizze machen und wieder gehen, wenn du magst.
 Wenn du dich länger austoben möchtest, vergiss nicht: Kohle hinterlässt Spuren…  auch auf den Klamotten:)<br>
