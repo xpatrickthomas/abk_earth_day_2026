@@ -315,8 +315,8 @@ By **Patrick Thomas** after **Eduardo Paolozzi** <br>
 **• Raum 1.12** <br>
 **• 10:00–20:00** <br> 
 Kerosene lamp made from an electric light bulb and tin can. Anonymous. Kumase, Ghana. <br>
-“Outside the realm of the auction houses, humble instruments for survival made from those very objects which every large city discharges into bottomless pits by the ton.” Eduardo Paolozzi, London 1985 <br>
-Pick up a Risograph edition that tells the story of how an anonymous object from an exhibition at London’s Museum of Mankind left a lasting impression on an art student from Saint Martins School of Art. <br>
+“Outside the realm of the auction houses, humble instruments for survival made from those very objects which every large city discharges into bottomless pits by the ton.” Eduardo Paolozzi <br>
+Pick up a Risograph edition that tells the story of how an anonymous object from an exhibition at London’s Museum of Mankind left a lasting impression on a young Central Saint Martins student in 1985. <br>
 
 **↖ [Back to Index](#index)**
 
