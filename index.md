@@ -416,7 +416,7 @@ Organised by **Maria Kley**, BA 2 Architektur <br>
 [DE] Eine emotionale Arbeit über die Symbiose zwischen Pilzen und Algen, aus der Flechten entstehen. Es geht um die Romantisierung dieser Verbindung und Parallelen zur Zwischenmenschlichkeit. <br>
 [EN] Sensitive work about symbiosis of algae and funghi, which results into lichen. Includes topics like romanticization of this connection and parallels to human relationships. <br>
 
-**●14. ich moechte schreien** 2023, 2025, 2026 <br>
+**●14. Ich Möchte Schreien** 2023, 2025, 2026 <br>
 By **[Lea Mina Rossatti](https://leaminarossatti.de)** ↗ <br>
 With assistance from **Shinroku Shimokawa** <br>
 **• Bildhauergarten** <br>
