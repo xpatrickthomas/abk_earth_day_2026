@@ -513,7 +513,7 @@ Organised by **Marisa Sitzler**<br>
 Mit dem MiScreen kannst du instant A4-Drucksiebe herstellen und damit alles mögliche Bedrucken. Ähnlich wie du es vom Siebdrucken kennst. Mitbringen musst du nur ein altes Tshirt zum bedrucken und eine Grafik, als pdf oder jpg. Jeder entstandene Sieb wird in einer Mappe gesammelt, so haben andere später auch noch die Möglichkeit ihre alten Textilien mit deinem Motiv zu verschönern.<br>
 
 **■6. Draw the Climate Crisis** <br>
-Hosted by **Maja Grandic**<br>
+Hosted by **[Maja Grandic](https://www.instagram.com/maja_grndc/)** ↗ <br>
 **• Altbau** <br>
 **• Raum XXX – Aktzeichensaal** <br>
 **• 10:00–17:00** <br> 
