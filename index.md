@@ -423,6 +423,7 @@ By **[Lea Mina Rossatti](https://leaminarossatti.de)** ↗ <br>
 **• Bildhauergarten, unter den Bäumen** <br>
 **• Bildhauerbau garden, under the trees** <br>
 **• 12:00–17:00** <br>
+Everyone is welcome to lie down and listen 𖡼.𖤣𖥧𖡼.𖤣𖥧 <br>
 Participative sound installation. Embroidered fabric 4x6m, microphone/ field recorder, headphones <br>
 whenever I feel the signs <br>
 lie down <br>
@@ -434,9 +435,6 @@ I feel the earth is shaking <br>
 grumbling, rumbling, trembling, humming, flowing, aching, thriving <br>
 and so am I <br>
 alive <br>
-Everyone is welcome to lie down and listen 𖡼.𖤣𖥧𖡼.𖤣𖥧 <br>
-
-
 
 **↖ [Back to Index](#index)**
 
