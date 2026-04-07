@@ -406,7 +406,18 @@ By **[Duo UFO](https://www.instagram.com/duo_ufo/)** **Jonathan Ohr** & **Nikita
 **• Hof** <br>
 **• 10:00–20:00** <br>
 Inauguration of Multi-use Modular Construction System supplied by **ABK Klimaschutz** <br>
-Coordination: **Patrick Thomas** & **Veronika Aumann** <br>
+Coordination **Patrick Thomas** & **Veronika Aumann** <br>
+
+**●13.ich moechte schreien** 2023, 2025, 2026 <br>
+By **[Lea Mina Rossatti](https://leaminarossatti.de)** ↗ <br>  
+Assistance **Shinroku Shimokawa**
+**• Bildhauergarten** <br>
+**• Steinwerkstatt (außen/outside)** <br>
+**• 10:00–22:00** <br>
+In einem ressourcenbegrenzten Ökosystem ist exponentielles Wachstum nicht möglich. Druck, der sich im Inneren aufbaut, spüren wir lange bevor wir ihn ausbrechen sehen. <br>
+In an ecosystem with limited resources, exponential growth is not possible. We feel the pressure building up inside long before we see it erupt. <br>
+Lime stone, calcium oxide (burnt lime), microphones, headphones. Dimensions: Variable <br>
+Time-based installation <br>
 
 **↖ [Back to Index](#index)**
 
