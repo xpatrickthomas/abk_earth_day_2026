@@ -424,7 +424,7 @@ By **[Lea Mina Rossatti](https://leaminarossatti.de)** ↗ <br>
 **• Bildhauerbau garden, under the trees** <br>
 **• 12:00–17:00** <br>
 Everyone is welcome to lie down and listen 𖡼.𖤣𖥧𖡼.𖤣𖥧 <br>
-Participative sound installation. Embroidered fabric 4x6m, microphone/ field recorder, headphones <br>
+Participative sound installation. Embroidered fabric 4×6m, microphone/ field recorder, headphones <br>
 whenever I feel the signs <br>
 lie down <br>
 my skin, semi permeable <br>
