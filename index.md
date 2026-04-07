@@ -421,18 +421,19 @@ Time-based installation. Lime stone, calcium oxide (burnt lime), microphones, he
 **●14. ich moechte schreien** 2026 <br>
 By **[Lea Mina Rossatti](https://leaminarossatti.de)** ↗ <br>
 **• Bildhauergarten** <br>
-**• Steinwerkstatt (außen/outside)** <br>
-**• 10:00–22:00** <br>
+**• Draußen, Wiese vor Bildhauerbau, unter den Bäumen**
+**• Outside, lawn in front of Bildhauerbau, under the trees** <br>
+**• 12:00–17:00** <br>
 Participative sound installation. Embroidered fabric 4x6m, microphone/ field recorder, headphones <br>
-whenever I feel the signs
-lie down
-my skin, semi permeable 
-my arms, a shiver
-It is
-ringing ears, twitching eyelids
-I feel the earth is shaking
-grumbling, rumbling, trembling, humming, flowing, aching, thriving 
-and so am I 
+whenever I feel the signs <br>
+lie down <br>
+my skin, semi permeable <br>
+my arms, a shiver <br>
+It is <br>
+ringing ears, twitching eyelids <br>
+I feel the earth is shaking <br>
+grumbling, rumbling, trembling, humming, flowing, aching, thriving <br>
+and so am I <br>
 alive <br>
 
 
