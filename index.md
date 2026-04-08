@@ -335,8 +335,7 @@ Video projection: contrasts the fragility of the body with man-made destruction,
 **●2. Muttererde**, 2026 <br>
 By **Lisa Helene Wedler** <br>
 (Klasse Choi) <br>
-**• (Vor dem) Altbau** <br>
-**• Wiese direkt vor dem Haupteingang** <br>
+**• Wiese vor dem Neubau 2** <br>
 **• 10:00–18:00** <br> 
 Installation verschiedener Erden auf dem Rasen verweist auf eine ursprüngliche, archetypische Erde und eine Welt in der ebendiese nicht mehr genügt – jene Erde, mit der alles begann.<br>
 
