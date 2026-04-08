@@ -425,7 +425,7 @@ Organised by **Maria Kley**, BA 2 Architektur <br>
 [DE] Eine emotionale Arbeit über die Symbiose zwischen Pilzen und Algen, aus der Flechten entstehen. Es geht um die Romantisierung dieser Verbindung und Parallelen zur Zwischenmenschlichkeit. <br>
 [EN] Sensitive work about symbiosis of algae and funghi, which results into lichen. Includes topics like romanticization of this connection and parallels to human relationships. <br>
 
-**●14. Ich Möchte Schreien** 2023, 2025, 2026 <br>
+**●14. ich moechte schreien** 2023, 2025, 2026 <br>
 By **[Lea Mina Rossatti](https://leaminarossatti.de)** ↗ <br>
 With assistance from **Shinroku Shimokawa** <br>
 **• Bildhauergarten** <br>
@@ -435,7 +435,7 @@ Time-based installation. Lime stone, calcium oxide (burnt lime), microphones, he
 [DE] In einem ressourcenbegrenzten Ökosystem ist exponentielles Wachstum nicht möglich. Druck, der sich im Inneren aufbaut, spüren wir lange bevor wir ihn ausbrechen sehen. <br>
 [EN] In an ecosystem with limited resources, exponential growth is not possible. We feel the pressure building up inside long before we see it erupt. <br>
 
-**●15. ich moechte schreien** 2026 <br>
+**●15. lying flat; whenever I feel the signs** 2026 <br>
 By **[Lea Mina Rossatti](https://leaminarossatti.de)** ↗ <br>
 **• Bildhauergarten, unter den Bäumen** <br>
 **• Bildhauerbau garden, under the trees** <br>
