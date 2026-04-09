@@ -523,7 +523,7 @@ Organised by **Maria Kley**, BA 2 Architektur <br>
 **• 10:00–18:00** <br>
 [DE] Eine emotionale Arbeit über die Symbiose zwischen Pilzen und Algen, aus der Flechten entstehen. Es geht um die Romantisierung dieser Verbindung und Parallelen zur Zwischenmenschlichkeit. <br>
 [EN] Sensitive work about symbiosis of algae and funghi, which results into lichen. Includes topics like romanticization of this connection and parallels to human relationships. <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800113/9.175468)** ↗ <br>
 
 **●14. ich moechte schreien**, 2023, 2025, 2026 <br>
 By **[Lea Mina Rossatti](https://leaminarossatti.de)** ↗ <br>
