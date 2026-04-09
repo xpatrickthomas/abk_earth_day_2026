@@ -235,7 +235,7 @@ Connect with nature. Hug a tree! <br>
 Description will appear here <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
 
-**10. Wilkräuterwanderung** <br>
+**♥10. Wilkräuterwanderung** <br>
 Organised by **Paula Laible** & **Maya Beckbissinger** <br>
 Participants: **ABK Gartenzwerge**, **alle, die wollen!** <br>
 **• 15:00 Treffpunkt im ABK-Garten, Spaziergang am Killesberg** <br>
@@ -243,7 +243,7 @@ Participants: **ABK Gartenzwerge**, **alle, die wollen!** <br>
 Um die ABK herum wachsen viele Wildkräuter, an denen wir täglich vorbeilaufen. Wir sammeln für eine Kräuterbutter, die abends bei Stockbrot am Lagerfeuer genossen wird. <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800874/9.173777)** ↗ <br>
 
-**11. Lagerfeuer** <br>
+**♥11. Lagerfeuer** <br>
 Organised by **Paula Laible** & **Maya Beckbissinger** <br>
 Participants: **ABK Gartenzwerge**, **alle, die wollen!** <br>
 **• ABK-Garten** <br>
@@ -251,13 +251,22 @@ Participants: **ABK Gartenzwerge**, **alle, die wollen!** <br>
 Um die ABK herum wachsen viele Wildkräuter, an denen wir täglich vorbeilaufen. Wir sammeln für eine Kräuterbutter, die abends bei Stockbrot am Lagerfeuer genossen wird. <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800866/9.173689)** ↗ <br>
 
-**12. Gartenzwerge** <br>
+**♥12. Gartenzwerge** <br>
 Organised by **Paula Laible** <br>
 Participants: **Gartenzwerge**, **alle sind willkommen!** 
 **• ABK-Garten** <br>
 **• ab 11:00** <br>
 Interdisziplinär. Den ganzen Tag findest du uns im Garten beim Umgraben, Pflanzen und in der Wiese sitzen.
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800858/9.173612)** ↗ <br>
+
+**♥13. Zukunftsquiz** <br>
+Organised by **Omas4Future Böblingen/Sindelfingen** (AnsprechpartnerInnen: Jutta Rau, Karl-Heinz Rau) <br>
+Participants: **Gartenzwerge**, **alle sind willkommen!** 
+**• Neubau 1** <br>
+**• Glaskasten** <br>
+**• Alle sind eingeladen** <br>
+Einblick in das Online Zukunftsquiz der OmasForFuture. **[Mehr Infos](https://www.zukunftsquiz.de)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
 
 **↖ [Back to Index](#index)**
 
