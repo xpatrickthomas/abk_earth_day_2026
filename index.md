@@ -578,7 +578,7 @@ Organised by **[Omas4Future Böblingen/Sindelfingen](https://omasforfuture.de/re
 **• Glaskasten** <br>
 **• 13:00–17:00** <br> 
 Ausstellung von über 100 Klimabändern mit Klimawünschen einzelner BürgerInnen sowie die Möglichkeit, eigene Klimawünsche zu formulieren und aufzuhängen** <br>
-[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800677/9.175207)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800677/9.175207)** ↗ <br>
 
 **●19. Kombucha** <br>
 By **Paula Dischinger** <br>
@@ -586,7 +586,7 @@ By **Paula Dischinger** <br>
 **• Graben** <br>
 **• 10:00—20:00** <br>
 Performance Video work (6:23) and large scale fabric prints (5x 1,2×0,8m) <br>
-[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
 
 **●20. Seedhoodie** <br>
 By **Paula Dischinger** <br>
@@ -594,7 +594,7 @@ By **Paula Dischinger** <br>
 **• Raum 127A** <br>
 **• 10:00—20:00** <br>
 A hoodie. Two layers of silk hold 5kg of seeds of all kinds. Pumpkin, Avocado, Cherry; all the seeds I could collect from my daily food waste within one year. The idea was to produce something that gives back more energy than it takes. <br>
-[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
 
 **●21. FK H1 Nest** <br>
 By **Paula Dischinger** & **Sophia Sühwold** (Fork and Knife) <br>
