@@ -44,8 +44,7 @@ In collaboration with **Local Knitting Associations** <br>
 **• Glaskasten** <br>
 **• 12:00–17:00** <br> 
 A knitting circle bringing together experienced knitters and ABK students and staff, fostering community, sustainability, and creativity through conversation, shared experiences and skills. <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗
-
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
 
 **★2. Soup-action** <br>
 By **Gerwin Schmidt** <br>
