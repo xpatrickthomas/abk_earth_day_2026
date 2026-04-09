@@ -268,7 +268,7 @@ Organised by **[Omas4Future Böblingen/Sindelfingen](https://omasforfuture.de/re
 **• Glaskasten** <br>
 **• 13:00–17:00** <br> 
 Einblick in das Online Zukunftsquiz der **OmasForFuture**. **[Mehr Infos](https://www.zukunftsquiz.de)** ↗ <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800576/9.175278)** ↗ <br>
 
 **↖ [Back to Index](#index)**
 
