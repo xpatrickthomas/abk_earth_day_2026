@@ -562,7 +562,7 @@ Organised by **[Omas4Future Böblingen/Sindelfingen](https://omasforfuture.de/re
 **• Im Hof (vor dem Neubau 1 – Glaskasten)** <br>
 **• 13:00–17:00** <br> 
 Ein 27 Meter langer Klimazeitstrahl mit Erläuterung zur Entwicklung des Klimas und der Klimaforschung der letzten 100 Jahre <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800440/9.175098)** ↗ <br>
 
 **↖ [Back to Index](#index)**
 
