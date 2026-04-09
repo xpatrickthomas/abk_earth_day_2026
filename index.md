@@ -234,8 +234,8 @@ Um die ABK herum wachsen viele Wildkräuter, an denen wir täglich vorbeilaufen.
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
 
 **11.**
-Organised by **Paula Laible**, **Maya Beckbissinger** <br>
-Participants: **ABK Gartenzwerge**, alle, die wollen! <br>
+Organised by **Paula Laible** & **Maya Beckbissinger** <br>
+Participants: **ABK Gartenzwerge**, **alle, die wollen!** <br>
 **• Treffpunkt im ABK-Garten** <br>
 **• Spaziergang am Killesberg** <br>
 **• Lagerfeuer im ABK-Garten** <br>
