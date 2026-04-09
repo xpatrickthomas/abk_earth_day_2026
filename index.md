@@ -571,13 +571,14 @@ Organised by **[Omas4Future Böblingen/Sindelfingen](https://omasforfuture.de/re
 Ein 27 Meter langer Klimazeitstrahl mit Erläuterung zur Entwicklung des Klimas und der Klimaforschung der letzten 100 Jahre <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800440/9.175098)** ↗ <br>
 
-**●17. O4F: Klimazeitstrahl** <br>
+**●18. Klimawünsche** <br>
 Organised by **[Omas4Future Böblingen/Sindelfingen](https://omasforfuture.de/regionalgruppen/sindelfingen-boeblingen/)** ↗ <br>
 (AnsprechpartnerInnen: Jutta Rau & Karl-Heinz Rau) <br>
-**• Im Hof (vor dem Neubau 1 – Glaskasten)** <br>
+**• Neubau 1** <br>
+**• Glaskasten** <br>
 **• 13:00–17:00** <br> 
-Ein 27 Meter langer Klimazeitstrahl mit Erläuterung zur Entwicklung des Klimas und der Klimaforschung der letzten 100 Jahre <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800440/9.175098)** ↗ <br>
+Ausstellung von über 100 Klimabändern mit Klimawünschen einzelner BürgerInnen sowie die Möglichkeit, eigene Klimawünsche zu formulieren und aufzuhängen** <br>
+[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800677/9.175207)** ↗ <br>
 
 **↖ [Back to Index](#index)**
 
