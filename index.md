@@ -475,7 +475,7 @@ A multi-channel sound installation, based on field recordings, that explores the
 
 **●8. SALVINIA**, TBC <br>
 Organised by **Max Neustadt** <br>
-Participant **Laura Neuscheler, Dr. -Ing. Leonie Beek, Festo SE & Co KG**
+Participant **Laura Neuscheler, Dr. -Ing. Leonie Beek, Festo SE & Co KG** <br>
 **• Werkstattbau** <br>
 **• 10:00–17:00** <br> 
 The project translates a biomimetic textile into oil-removal systems. Based on Salvinia molesta, it enables sustainable, reactive and preventive cleanup through three concepts: barrier, mobile and stationary skimmer.<br>
