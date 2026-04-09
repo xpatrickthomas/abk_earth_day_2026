@@ -231,7 +231,7 @@ Participants: **ABK Gartenzwerge**, **alle, die wollen!** <br>
 **• 15:00 Treffpunkt im ABK-Garten, Spaziergang am Killesberg** <br>
 **• ab 18:00 Lagerfeuer im ABK-Garten** <br>
 Um die ABK herum wachsen viele Wildkräuter, an denen wir täglich vorbeilaufen. Wir sammeln für eine Kräuterbutter, die abends bei Stockbrot am Lagerfeuer genossen wird. <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800920/9.173714)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800882/9.173591)** ↗ <br>
 
 **11. Gartenzwerge**
 Organised by **Paula Laible** <br>
