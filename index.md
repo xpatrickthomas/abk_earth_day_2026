@@ -593,7 +593,7 @@ By **Jerry Ahn**, **Seonha Park** (& **Jessica Lipp**)<br>
 **• 14:00–16:00** <br> 
 A two-hour sound performance of anxiety, boredom, joy and hope. <br>
 The live sound performance will be recorded by **Jessica Lipp**, **[Fullbeansradio](https://www.fullbeansradio.com/)** ↗ <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800878/9.174064)** ↗ <br>
 
 **☆2. Toilet concert** <br>
 By **Mara Donata Ott** <br>
@@ -601,7 +601,7 @@ By **Mara Donata Ott** <br>
 **• TBA** <br>
 **• 00:00–00:00**(?) <br> 
 Description will appear here<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.799991/9.173772)** ↗ <br>
 
 **↖ [Back to Index](#index)**
 
@@ -615,7 +615,7 @@ Organised by **TBA**<br>
 **• TBA** <br>
 **• 10:00–16:00** <br> 
 Description will appear here<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800819/9.174073)** ↗ <br>
 
 **■2. Textile Dyeing with Plants** <br>
 Hosted by **Rosa Marlene Altmann**<br>
@@ -626,7 +626,7 @@ In diesem Workshop kann jeder (min.) ein Stück Textil mit einem Färbesud aus P
 Textil und Färbematerial sind gestellt. Achte darauf Arbeitskleidung oder nichts neues/helles anzuziehen. <br>
 Anmeldung vor Ort oder über [Rosa Marlene Altmann](mailto:rosa@juergenaltmann.com) ↗ <br>
 • Teilnehmende: 3 (Min.) / 10 (Max.)<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800677/9.173780)** ↗ <br>
 
 **■3. Wunderbare Wollperücken** <br>
 Organised by **Madeleine Badayei** <br>
@@ -634,7 +634,7 @@ Organised by **Madeleine Badayei** <br>
 **• Raum 110 – Bühnen- und Kostümbildatelier** <br>
 **• 10:00–17:00**(?) <br> 
 Wir machen aus alten Strickpullis süße dumme bunte coole spaßige crazige Perücken<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.799969/9.174271)** ↗ <br>
 
 **■4. Bring Your Own Hardware – Linux installation and/or data delete** <br>
 With **Anton Linus Schwarz** & **Atelier Digitale Souveränität**<br>
@@ -643,7 +643,7 @@ With **Anton Linus Schwarz** & **Atelier Digitale Souveränität**<br>
 **• 11:00–16:00** <br> 
 Either we help you install Linux – great on MacBooks – or we help to delete your data and guide you to trashing it safely.<br>
 **•** Organised by **Atelier Digitale Souveränität** <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800513/9.175649)** ↗ <br>
 
 **■5. Nie wieder langweilige Taschen und T-Shirts!** <br>
 Organised by **Marisa Sitzler**<br>
@@ -652,7 +652,7 @@ Organised by **Marisa Sitzler**<br>
 **• Raum 1.15** <br>
 **• 10:00–18:00**(?) <br> 
 Mit dem MiScreen kannst du instant A4-Drucksiebe herstellen und damit alles mögliche Bedrucken. Ähnlich wie du es vom Siebdrucken kennst. Mitbringen musst du nur ein altes Tshirt zum bedrucken und eine Grafik, als pdf oder jpg. Jeder entstandene Sieb wird in einer Mappe gesammelt, so haben andere später auch noch die Möglichkeit ihre alten Textilien mit deinem Motiv zu verschönern.<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800647/9.175641)** ↗ <br>
 
 **■6. Draw the Climate Crisis** <br>
 Hosted by **[Maja Grandic](https://www.instagram.com/maja_grndc/)** ↗ <br>
@@ -662,7 +662,7 @@ Hosted by **[Maja Grandic](https://www.instagram.com/maja_grndc/)** ↗ <br>
 In dem Workshop arbeiten wir bewusst mit Kohle, dem Material, das sinnbildlich für eine der Ursachen der Klimakrise steht. Was hier als Zeichenwerkzeug dient, ist zugleich ein Werkzeug für Ausbeutung, Emissionen und Umweltzerstörung. Somit nutzen wir das Produkt selbst, um auf seine Folgen aufmerksam zu machen. Die Spuren auf dem Blatt verweisen auf die realen Spuren in der Welt, wie verbrannte Landschaften, Kolonialismus, verschmutzte Luft, aufgeheizte Atmosphären, Kriege oder alles, was du selbst damit verbindest. <br>
 Komm am Earth Day vorbei und teile deine Gedanken. Du kannst bleiben, solange du willst oder einfach eine kleine Skizze machen und wieder gehen, wenn du magst.
 Wenn du dich länger austoben möchtest, vergiss nicht: Kohle hinterlässt Spuren…  auch auf den Klamotten:)<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800212/9.174075)** ↗ <br>
 
 **■7. abk– interdisziplinär Färbergarten** <br>
 Organised by **Wibke Neugebauer** & **Daniela Schöpflin**<br>
@@ -679,7 +679,7 @@ Xx by **Xx Xx**<br>
 **• Xx** <br>
 **• 00:00–00:00**(?) <br> 
 Xx.<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800319/9.174542)** ↗ <br>
 
 **↖ [Back to Index](#index)**
 
