@@ -586,7 +586,7 @@ By **Paula Dischinger** <br>
 **• Graben** <br>
 **• 10:00—20:00** <br>
 Performance Video work (6:23) and large scale fabric prints (5x 1,2×0,8m) <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800159/9.175459)** ↗ <br>
 
 **●20. Seedhoodie** <br>
 By **Paula Dischinger** <br>
