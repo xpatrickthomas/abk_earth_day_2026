@@ -137,7 +137,8 @@ The zines may be read at, or collected from the distribution points. <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800418/9.175447)** ↗ <br>
 
 **★13. O4F: Häkeln gegen Ökozid** <br>
-Organised by **[Omas4Future Stuttgart](https://omasforfuture.de/regionalgruppen/stuttgart/)** ↗ (Ansprechpartnerin Monika Hans) <br>
+Organised by **[Omas4Future Stuttgart](https://omasforfuture.de/regionalgruppen/stuttgart/)** ↗ <br>
+(Ansprechpartnerin Monika Hans) <br>
 **• Neubau 1** <br>
 **• Glaskasten** <br>
 **• 13:00–17:00** <br> 
@@ -260,7 +261,8 @@ Interdisziplinär. Den ganzen Tag findest du uns im Garten beim Umgraben, Pflanz
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800858/9.173612)** ↗ <br>
 
 **♥13. Zukunftsquiz** <br>
-Organised by **[Omas4Future Böblingen/Sindelfingen](https://omasforfuture.de/regionalgruppen/sindelfingen-boeblingen/)** ↗ (AnsprechpartnerInnen: Jutta Rau, Karl-Heinz Rau) <br>
+Organised by **[Omas4Future Böblingen/Sindelfingen](https://omasforfuture.de/regionalgruppen/sindelfingen-boeblingen/)** ↗ <br>
+(AnsprechpartnerInnen: Jutta Rau, Karl-Heinz Rau) <br>
 **• Alle sind eingeladen** <br>
 **• Neubau 1** <br>
 **• Glaskasten** <br>
