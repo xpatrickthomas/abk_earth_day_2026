@@ -136,6 +136,17 @@ A zine introducing open source software that can be used by artist and designers
 The zines may be read at, or collected from the distribution points. <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800418/9.175447)** ↗ <br>
 
+**★12. O4F: Häkeln gegen Ökozid** <br>
+Organised by **Omas4Future Stuttgart** (Ansprechpartnerin Monika Hans) <br>
+**• Neubau 1** <br>
+**• Glaskasten** <br>
+**• 13:00–17:00** <br> 
+**• Alle sind eingeladen**
+Die Omas for Future Stuttgart unterstützen das Mitmach-Kunstprojekt ARTagainstECOCIDE für Biodiversität, Gerechtigkeit und gesetzliche Veränderungen mit Häkelnadel und Wollfaden! <br>
+**[Mehr Infos](artagainstecocide.de/mitmachkunst-haekeln)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+
+
 **↖ [Back to Index](#index)**
 
 ---
