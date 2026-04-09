@@ -241,7 +241,7 @@ Connect with nature. Hug a tree! <br>
 **• Aktionsraum** <br>
 **• 10:00–20:00**(?) <br>
 Description will appear here <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800550/9.174535)** ↗ <br>
 
 **♥10. Wilkräuterwanderung** <br>
 Organised by **Paula Laible** & **Maya Beckbissinger** <br>
@@ -289,7 +289,7 @@ Organised by **TBA**<br>
 **• Glaskasten** <br>
 **• 10:00–17:00** <br> 
 Description will appear here<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800581/9.175091)** ↗ <br>
 
 **♺2. Büchertausch** <br>
 Organised by **TBA**<br>
@@ -297,7 +297,7 @@ Organised by **TBA**<br>
 **• Glaskasten** <br>
 **• 10:00–17:00** <br> 
 Description will appear here<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800580/9.175046)** ↗ <br>
 
 **↖ [Back to Index](#index)**
 
@@ -311,7 +311,7 @@ By **Textile design department**<br>
 **• Raum 000** <br>
 **• 10:00–18:00** <br> 
 Description will appear here<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800754/9.173557)** ↗ <br>
 
 **▣2. Left-over paintings** <br>
 By **Veronika Aumann**<br>
@@ -319,7 +319,7 @@ By **Veronika Aumann**<br>
 **• Staircase 1st floor** <br>
 **• 10:00–18:00** <br> 
 For (almost…) every single textile project I worked on since my studies, I create a simple DinA4 size art piece with leftover materials from the process. Displayed here are three of the many ›Leftover Paintings‹ from 2013, 2019 and 2026.<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800760/9.173627)** ↗ <br>
 
 **▣3. [Title]** <br>
 By **Textile design department**<br>
@@ -327,7 +327,7 @@ By **Textile design department**<br>
 **• Raum 000** <br>
 **• 10:00–18:00** <br> 
 Description will appear here<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800776/9.173788)** ↗ <br>
 
 **▣4. [Title]** <br>
 By **Textile design department**<br>
@@ -335,7 +335,7 @@ By **Textile design department**<br>
 **• Raum 000** <br>
 **• 10:00–18:00** <br> 
 Description will appear here<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800709/9.173565)** ↗ <br>
 
 **▣5. [Title]** <br>
 By **Textile design department**<br>
@@ -343,7 +343,7 @@ By **Textile design department**<br>
 **• Raum 000** <br>
 **• 10:00–18:00** <br> 
 Description will appear here<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800767/9.173697)** ↗ <br>
 
 **▣6. [Title]** <br>
 By **Maximilian Messer**<br>
@@ -351,7 +351,7 @@ By **Maximilian Messer**<br>
 **• Raum 28** <br>
 **• 14:00–19:00** <br> 
 A highly personal and contemplative exhibition capturing the joy of wild camping in nature
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800875/9.174016)** ↗ <br>
 
 **▣7. [Title]** <br>
 By **Annalisa Fitz** & **Ida Zimmermann**<br>
@@ -359,7 +359,7 @@ By **Annalisa Fitz** & **Ida Zimmermann**<br>
 **• Raum 120 – ABK Typelab** <br>
 **• 10:00–17:00** <br> 
 Description will appear here<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800338/9.173823)** ↗ <br>
 
 **▣8. Eco-Reading Space** <br>
 Organised by **Anna Lukasek** & **Elsa Weber**<br>
@@ -367,7 +367,7 @@ Organised by **Anna Lukasek** & **Elsa Weber**<br>
 **• Raum 204B – Bibliothek** <br>
 **• 10:00–17:00** <br> 
 Description will appear here<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.799837/9.174551)** ↗ <br>
 
 **▣9. SORTED** <br>
 By **Klasse Lucienne Roberts** & **friends**<br>
@@ -376,7 +376,7 @@ Organised by **Bastian Steinhauer** / **Lucienne Roberts**<br>
 **• Raum 1.14** <br>
 **• 10:00–17:00** <br> 
 We visit a local recycling facility. We document it in sound only. We make acoustic responses. Come and hear our Earth Day exhibition.<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800689/9.175640)** ↗ <br>
 
 **▣10. An ABK Earth Day Poster for 100 Years** <br>
 By **Max Reichert** & **Luis Schulte Kellinghaus**<br>
@@ -385,7 +385,7 @@ With support from **Johannes Oestringer**<br>
 **• ABK Print Lab** **– Raum 117/120**<br>
 **• 10:00–17:00** <br> 
 A behind-the-scenes look into the creation of the iconic DIN A0 Letterpress Earth Day poster.<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800233/9.173824)** ↗ <br>
 
 **▣11. ONE WORD POSTERS** <br>
 Organised by **Johannes Oestringer** & **Stefanie Schwarz** <br>
@@ -394,7 +394,7 @@ Participants **Gabriella Bakos**, **Daria Frees**, **Paula Gospodnetic** & **Van
 **• ABK Print Lab** & **ABK Type Lab** **– Raum 117/120** <br>
 **• 06:00–23:55** <br> 
 A series of letterpress printed type posters. A collaboration between **ABK Type Lab** & **ABK Print Lab**.<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800304/9.173823)** ↗ <br>
 
 **▣12. An Object That Changed My Life** <br>
 By **Patrick Thomas** after **Eduardo Paolozzi** <br>
@@ -404,7 +404,7 @@ By **Patrick Thomas** after **Eduardo Paolozzi** <br>
 Kerosene lamp made from an electric light bulb and tin can. Anonymous. Kumase, Ghana. <br>
 “Outside the realm of the auction houses, humble instruments for survival made from those very objects which every large city discharges into bottomless pits by the ton.” Eduardo Paolozzi <br>
 Pick up a Risograph edition that tells the story of how an anonymous object from an exhibition at London’s Museum of Mankind left a lasting impression on a young Central Saint Martins student in 1985. <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800600/9.175648)** ↗ <br>
 
 **↖ [Back to Index](#index)**
 
@@ -419,7 +419,7 @@ By **Lisa Helene Wedler** & **Mira Traub** <br>
 **• 1.25 – Kopierraum** <br>
 **• 10:00–18:00** <br> 
 Video projection: contrasts the fragility of the body with man-made destruction, creating tension between vulnerability and power.<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800188/9.175476)** ↗ <br>
 
 **●2. Muttererde**, 2026 <br>
 By **Lisa Helene Wedler** <br>
@@ -427,7 +427,7 @@ By **Lisa Helene Wedler** <br>
 **• Wiese vor dem Neubau 2** <br>
 **• 10:00–18:00** <br> 
 Installation verschiedener Erden auf dem Rasen verweist auf eine ursprüngliche, archetypische Erde und eine Welt in der ebendiese nicht mehr genügt – jene Erde, mit der alles begann.<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800149/9.175276)** ↗ <br>
 
 **●3. Lichtermeer (Iso. R. 4s14m6M)**, 2025 <br>
 By **Birk Hinnersmann** <br>
@@ -436,7 +436,7 @@ By **Birk Hinnersmann** <br>
 **• Raum 01.17 – Video-/ Foto-Aufnahmestudio** <br>
 **• 10:00–18:00** <br> 
 Eine Installation aus Holz und programmierte LEDs, die visuellen Einflüsse des Menschen auf dem Meer bei Nacht widerspiegeln.<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800770/9.175546)** ↗ <br>
 
 **●4. telling tales of utopia**, 2026 <br>
 By **Paula Bother** & **Rosa Klingelhöfer** <br>
@@ -445,7 +445,7 @@ By **Paula Bother** & **Rosa Klingelhöfer** <br>
 **• Foyer** <br>
 **• 10:00–18:00** <br> 
 Eine Installation aus selbstgeschöpften Papieren, eingelassen in eine Holzkonstruktion. Die Arbeit beschäftigt sich mit politischen Umbrüchen, die nach Farben und Blumen benannt sind. <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800366/9.175506)** ↗ <br>
 
 **●5. BLAU MACHEN (recycelt)**, 2026 <br>
 By **Klasse Choi**<br>
@@ -453,7 +453,7 @@ By **Klasse Choi**<br>
 **• Raum 223** <br>
 **• 10:00–20:00** <br> 
 Eine Rauminstallation, die mit wiederverwendetem Material ein Atelier in unwirkliches Licht taucht und zum Blaumachen einlädt. Eine subversiv reflektierte Geste und künstlerische Haltung zugleich.<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800458/9.173732)** ↗ <br>
 
 **●6. Rückkehr**, 2026 <br>
 By **Ava Will** <br>
@@ -462,7 +462,7 @@ By **Ava Will** <br>
 **• (Vor dem) Glaskasten** <br>
 **• 10:00–18:00** <br> 
 Ein begehbares Schneckengehäuse, umhüllt von Naturmaterialien, die den Übergang vom Winter zum erwachenden Frühling widerspiegeln und sich in die Umgebung einfügen. <br>A walkable snail shell, enveloped in natural materials that reflect the transition from winter to spring’s awakening and merge with the environment. <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800608/9.173788)** ↗ <br>
 
 **●7. This Could Be Us**, 2026 <br>
 By **Lorenzo Mastrosimone** <br>
@@ -471,7 +471,7 @@ By **Lorenzo Mastrosimone** <br>
 **• Raum 35A – Steinwerkstatt** <br>
 **• 10:00–20:00** <br> 
 A multi-channel sound installation, based on field recordings, that explores the impact of human intervention on our environment. <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800858/9.174429)** ↗ <br>
 
 **●8. SALVINIA**, TBC <br>
 Organised by **Max Neustadt** <br>
@@ -487,7 +487,7 @@ Coordination **Klasse Thomas**<br>
 **• 1UG – Graben** <br>
 **• 10:00–20:00** <br> 
 Short description will appear here<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800131/9.175684)** ↗ <br>
 
 **●10. Bird Camp** <br>
 By **[Chris Kabel](https://www.chriskabel.com/)** <br>
@@ -496,7 +496,7 @@ By **[Chris Kabel](https://www.chriskabel.com/)** <br>
 **• 10:00–20:00** <br> 
 Tetraedrical tent <br>
 “All birds are in fact just campers, who set up their tent each year in spring to raise their young.” *Chris Kabel*
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800305/9.175276)** ↗ <br>
 
 **●11. Binderklinker** <br>
 By **[Chris Kabel](https://www.chriskabel.com/)** <br>
@@ -505,7 +505,7 @@ By **[Chris Kabel](https://www.chriskabel.com/)** <br>
 **• 10:00–18:00** <br> 
 The Dutch word “Klinker” means sintered brick. Developed to inspire inhabitants to guide plants along the façades of their dwellings, the special bricks may be embedded in walls, each having a hole that allows plants to be attached with a cord.<br>
 **[More information](https://www.chriskabel.com/Binder-Klinker)** ↗ <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800943/9.175057)** ↗ <br>
 
 **●12. C-KLT 6428 – Multi-use Modular Construction System** <br>
 By **[Duo UFO](https://www.instagram.com/duo_ufo/)** **Jonathan Ohr** & **Nikita Neitzke** <br>
@@ -514,7 +514,7 @@ By **[Duo UFO](https://www.instagram.com/duo_ufo/)** **Jonathan Ohr** & **Nikita
 **• 10:00–20:00** <br>
 Inauguration of Multi-use Modular Construction System supplied by **ABK Klimaschutz** <br>
 Coordination **Patrick Thomas** & **Veronika Aumann** <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800315/9.174925)** ↗ <br>
 
 **●13. Raum einnehmen / Taking-up space**, 2026 <br>
 Organised by **Maria Kley**, BA 2 Architektur <br>
@@ -534,7 +534,7 @@ With assistance from **Shinroku Shimokawa** <br>
 Time-based installation. Lime stone, calcium oxide (burnt lime), microphones, headphones. Dimensions: Variable <br>
 [DE] In einem ressourcenbegrenzten Ökosystem ist exponentielles Wachstum nicht möglich. Druck, der sich im Inneren aufbaut, spüren wir lange bevor wir ihn ausbrechen sehen. <br>
 [EN] In an ecosystem with limited resources, exponential growth is not possible. We feel the pressure building up inside long before we see it erupt. <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800980/9.174326)** ↗ <br>
 
 **●15. lying flat; whenever I feel the signs**, 2026 <br>
 By **[Lea Mina Rossatti](https://leaminarossatti.de)** ↗ <br>
@@ -553,7 +553,7 @@ I feel the earth is shaking <br>
 grumbling, rumbling, trembling, humming, flowing, aching, thriving <br>
 and so am I <br>
 alive <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800958/9.174130)** ↗ <br>
 
 **●16. “For the Young Artist…”** <br>
 By **Patrick Thomas** after **Eduardo Paolozzi** <br>
@@ -561,7 +561,15 @@ By **Patrick Thomas** after **Eduardo Paolozzi** <br>
 **• Graben** <br>
 **• 10:00–20:00** <br> 
 Handwritten text on wall. Recreation of a statement addressed to art students by Eduardo Paolozzi. London, 1985 <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800307/9.175439)** ↗ <br>
+
+**●17. O4F: Klimazeitstrahl** <br>
+Organised by **[Omas4Future Böblingen/Sindelfingen](https://omasforfuture.de/regionalgruppen/sindelfingen-boeblingen/)** ↗ <br>
+(AnsprechpartnerInnen: Jutta Rau & Karl-Heinz Rau) <br>
+**• Im Hof (vor dem Neubau 1 – Glaskasten)** <br>
+**• 13:00–17:00** <br> 
+Ein 27 Meter langer Klimazeitstrahl mit Erläuterung zur Entwicklung des Klimas und der Klimaforschung der letzten 100 Jahre <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800440/9.175098)** ↗ <br>
 
 **●17. O4F: Klimazeitstrahl** <br>
 Organised by **[Omas4Future Böblingen/Sindelfingen](https://omasforfuture.de/regionalgruppen/sindelfingen-boeblingen/)** ↗ <br>
