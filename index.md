@@ -581,8 +581,8 @@ Ein 27 Meter langer Klimazeitstrahl mit Erläuterung zur Entwicklung des Klimas 
 By **Jerry Ahn**, **Seonha Park** (& **Jessica Lipp**)<br>
 **• Bildhauerbau** <br>
 **• Raum 28** <br>
-**• 14:00–19:00** <br> 
-A five-hour sound performance of anxiety, boredom, joy and hope. <br>
+**• 14:00–16:00** <br> 
+A two-hour sound performance of anxiety, boredom, joy and hope. <br>
 The live sound performance will be recorded by **Jessica Lipp**, **[Fullbeansradio](https://www.fullbeansradio.com/)** ↗ <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
 
