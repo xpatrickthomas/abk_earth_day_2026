@@ -504,7 +504,7 @@ By **[Chris Kabel](https://www.chriskabel.com/)** <br>
 **• Werkstattbau** <br>
 **• TBA** <br>
 **• 10:00–18:00** <br> 
-The Dutch word “Klinker” means sintered brick. Developed to inspire inhabitants to guide plants along the façades of their dwellings, the special bricks may be embedded in walls, each having a hole that allows plants to be attached with a cord.**[More information](https://www.chriskabel.com/Binder-Klinker)** ↗ <br>
+The Dutch word “Klinker” means sintered brick. Developed to inspire inhabitants to guide plants along the façades of their dwellings, the special bricks may be embedded in walls, each having a hole that allows plants to be attached with a cord. **[More information](https://www.chriskabel.com/Binder-Klinker)** ↗ <br>
 Coordinated by **David Gebka** <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800943/9.175057)** ↗ <br>
 
