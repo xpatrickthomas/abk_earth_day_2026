@@ -602,7 +602,7 @@ By **Paula Dischinger** & **Sophia Sühwold** (Fork and Knife) <br>
 **• Raum 127A** <br>
 **• 10:00—20:00** <br>
 Performance Video work (12:02). Residenz im Kunsthaus Helleweg. Vögel bauen Nester. Ein Nest für Menschen. Wir sammeln - Geborgenheit aus spitzen Ästen? <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800782/9.173698)** ↗ <br>
 
 **↖ [Back to Index](#index)**
 
