@@ -623,7 +623,7 @@ The live sound performance will be recorded by **Jessica Lipp**, **[Fullbeansrad
 By **Moss Donata** <br>
 **• Altbau** <br>
 **• 2.OG All Gender Toilet** <br>
-**• 15:00–16:30**(?) <br> 
+**• 15:00–16:30** <br> 
 *“Das Wasser fließt, welch ein schöner Klang...  dort komm ich her, jetzt fühl ich mich gefangen... zu wenig Luft und zu viel Zwang, und über’m Meer der Sonnenaufgang.”*  <br> 
 Unverstärkt, einzig von der Raumakustik der Toilette getragen, werde ich — eingeschlossen in einer der Toilettenkabinen — Songs auf deutscher und englischer Sprache und Instrumentals spielen.  <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.799991/9.173772)** ↗ <br>
