@@ -154,6 +154,17 @@ Organised by **Jisol Lee** & **Charlotte Lydia Wahl** <br>
 Forschung zu Bioplastik für nachhaltige Textilien entwickelt umweltfreundliche Materialien, die fossile Rohstoffe ersetzen und Recycling sowie biologische Abbaubarkeit fördern <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800329/9.175510)** ↗ <br>
 
+**★15. Risograph Limited-editions** <br>
+By **[[https://www.instagram.com/el.bebbe.grande/|El Bebbe Grande]]** ↗ <br>
+**• Neubau 1** <br>
+**• Vortragssaal** <br>
+**• 12:00–17:00** <br> 
+Pick up a limited-edition Riso print from Stuttgart's favourite visual satirist in return for a small donation to [International Animal Rescue](https://www.internationalanimalrescue.org) ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800523/9.174602)** ↗ <br>
+
+
+48.800523/9.174602
+
 **↖ [Back to Index](#index)**
 
 ---
