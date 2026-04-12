@@ -629,6 +629,14 @@ By **Moss Donata** <br>
 Unverstärkt, einzig von der Raumakustik der Toilette getragen, werde ich — eingeschlossen in einer der Toilettenkabinen — Songs auf deutscher und englischer Sprache und Instrumentals spielen.  <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.799991/9.173772)** ↗ <br>
 
+**☆3. Earth Day dance** <br>
+By Special Guest **[Donya Ahmadifar](https://www.instagram.com/dny.a/)** ↗ <br>
+**• Campus** <br>
+**• Im Hof** <br>
+**• 17:00–17:05** <br> 
+Donya Ahmadifar is a dancer and choreographer from the local street culture scene. She has been active in various dance fields for several years and is a permanent member of the street style art scene. <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+
 **↖ [Back to Index](#index)**
 
 ---
