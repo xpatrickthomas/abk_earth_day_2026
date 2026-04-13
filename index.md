@@ -473,7 +473,7 @@ By **Ava Will** <br>
 **• (Vor dem) Glaskasten** <br>
 **• 10:00–18:00** <br> 
 Ein begehbares Schneckengehäuse, umhüllt von Naturmaterialien, die den Übergang vom Winter zum erwachenden Frühling widerspiegeln und sich in die Umgebung einfügen. <br>A walkable snail shell, enveloped in natural materials that reflect the transition from winter to spring’s awakening and merge with the environment. <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800608/9.173788)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800667/9.174073)** ↗ <br>
 
 **●7. This Could Be Us**, 2026 <br>
 By **Lorenzo Mastrosimone** <br>
