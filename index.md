@@ -1,6 +1,6 @@
 # Full Itinerary
-**Mittwoch
-Wednesday
+**Mittwoch <br>
+Wednesday <br>
 22.4.2026**
 
 ## Index
