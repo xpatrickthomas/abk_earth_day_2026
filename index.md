@@ -4,13 +4,13 @@ Wednesday <br>
 22 April 2026**
 
 ## Index
-**★ [Actions](#-actions) ↗** <br>
-**♥ [Activities](#-activities) ↗** <br>
-**♺ [Exchanges](#-exchanges) ↗** <br>
-**▣ [Exhibits](#-exhibits) ↗** <br>
-**● [Installations](#-installations) ↗** <br>
-**☆ [Performances](#-performances) ↗** <br>
-**■ [Workshops](#-workshops) ↗** <br>
+**★ [Action](#-action) ↗** <br>
+**♥ [Activity](#-activity) ↗** <br>
+**♺ [Exchange](#-exchange) ↗** <br>
+**▣ [Exhibit](#-exhibit) ↗** <br>
+**● [Installation](#-installation) ↗** <br>
+**☆ [Performance](#-performance) ↗** <br>
+**■ [Workshop](#-workshop) ↗** <br>
 
 ---
 
@@ -39,7 +39,7 @@ Wednesday <br>
 
 ---
 
-## ★ Actions
+## ★ Action
 
 **★1. Knitting – Knowledge Transfer** <br>
 In collaboration with **Local Knitting Associations** <br>
@@ -172,7 +172,7 @@ Pick up a limited-edition Riso print from Stuttgart's favourite visual satirist 
 
 ---
 
-## ♥ Activities
+## ♥ Activity
 
 **♥1. Gentle Morning Flow (Yoga)** <br>
 Led by **Nadine Bracht**<br>
@@ -295,7 +295,7 @@ Einblick in das Online Zukunftsquiz der **OmasForFuture**. **[Mehr Infos](https:
 
 ---
 
-## ♺ Exchanges
+## ♺ Exchange
 
 **♺1. Kleidertausch** <br>
 Organised by **TBA**<br>
@@ -317,7 +317,7 @@ Description will appear here <br>
 
 ---
 
-## ▣ Exhibits
+## ▣ Exhibit
 
 **▣1. [Title]** <br>
 By **Textile design department**<br>
@@ -424,7 +424,7 @@ Pick up a Risograph edition that tells the story of how an anonymous object from
 
 ---
 
-## ● Installations
+## ● Installation
 
 **●1. The only thing I know / I want a lot**, 2026 <br>
 By **Lisa Helene Wedler** & **Mira Traub** <br>
@@ -623,7 +623,7 @@ Performance Video work (12:02). Residenz im Kunsthaus Helleweg. Vögel bauen Nes
 
 ---
 
-## ☆ Performances
+## ☆ Performance
 
 **☆1. Elephant in the Room** <br>
 By **Jerry Ahn** & **Seonha Park**<br>
@@ -655,7 +655,7 @@ Donya Ahmadifar is a dancer and choreographer from the local street culture scen
 
 ---
 
-## ■ Workshops
+## ■ Workshop
 
 **■1. Bike Repair Workshop** <br>
 Organised by **TBA**<br>
