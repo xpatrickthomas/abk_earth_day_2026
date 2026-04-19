@@ -426,6 +426,14 @@ Kerosene lamp made from an electric light bulb and tin can. Anonymous. Kumase, G
 Pick up a Risograph edition that tells the story of how an anonymous object from an exhibition at London’s Museum of Mankind left a lasting impression on a young Central Saint Martins student in 1985. <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800600/9.175648)** ↗ <br>
 
+**▣13. Muttersohn** <br>
+By **Florence Nitschmann** & **Rahel Rosenberger** <br>
+**• Neubau 2** <br>
+**• Graben – EG** <br>
+**• 10:00–20:00** <br>
+„Muttersohn“ ist ein textiles Buch, das lyrisch die Geschichte einer Mutter und ihres Sohnes erzählt, die ein Tragisches Ende nimmt. Die Geschichte dient als zynische Allegorie für die Zerstörung der Erde und ist als interdisziplinäres Projekt aus den Fachbereichen Textildesign (Florence Nitschmann) und Kommunikationsdesign (Rahel Rosenberger) entstanden. <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800084/9.175588)** ↗ <br>
+
 **↖ [Back to Index](#index)**
 
 ---
