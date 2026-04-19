@@ -737,7 +737,7 @@ Organised by **Wibke Neugebauer** & **Daniela Schöpflin**<br>
 Participant/s: Students already registered for the „Färbergarten“ workshop in May + anyone who is interested in joining the Färbergarten group. <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800319/9.174542)** ↗ <br>
 
-**■7. Offene Reparaturwerkstatt für Kostüme und Kleidung** <br>
+**■8. Offene Reparaturwerkstatt für Kostüme und Kleidung** <br>
 Organised by **AM Moritz Haakh** <br>
 **• Altbau** <br>
 Organised by **AM Moritz Haakh** <br>
