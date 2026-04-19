@@ -172,7 +172,7 @@ Organised by **Klasse Bier** <br>
 **• 10:00–17:00** <br>
 Wir sammeln Blätter (und Teile) von so vielen Pflanzen, wie wir auf dem ABK-Campus finden können, und gestalten daraus eine Installation. Damit stellen wir die Vielfalt des pflanzlichen Lebens in unserem kulturell definierten Gebiet dar, zollen aber auch allem Tribut, was unsere Welt grün macht. <br>
 **• Alle sind eingeladen mitzumachen!** <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.799931/9.174060)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800503/9.173917)** ↗ <br>
 
 **↖ [Back to Index](#index)**
 
