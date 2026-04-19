@@ -757,7 +757,7 @@ Xx.<br>
 | 10:00–<br>17:00     | **Public Talks**                | Neubau 2<br>Vortragssaal  |
 | 17:00–<br>17:30     | **Earth Day Award Ceremony**    | Campus<br>im Hof          |
 | 17:30–<br>18:00     | **Earth DayTree: Birthday** 🎂  | Campus<br>im Hof          |
-| 18:00–<br>20:00     | **Eco-Kino**                    | Neubau 2<br>Vortragssaal  |
+| 15:30–<br>17:00     | **Eco-Kino**                    | Neubau 2<br>Jo's Kino  |
 
 **↖ [Back to Index](#index)**
 
