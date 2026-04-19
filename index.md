@@ -325,12 +325,12 @@ Description will appear here <br>
 
 ## ▣ Exhibit
 
-**▣1. [Title]** <br>
-By **Textile design department**<br>
+**▣1. repair_practice of care** <br>
+Organised by **Lotta Bühler**<br>
 **• Keramikbau** <br>
-**• Raum 000** <br>
-**• 10:00–18:00** <br> 
-Description will appear here <br>
+**• Atelier Textildesign** <br>
+**• 10:00–17:00** <br> 
+**repair_practice of care** setzt sich mit der Praxis des Reparierens auseinander. Dabei wird der Begriff und die Kultur des Reparierens mit Care-Arbeit verknüpft. Diese Gebrauchsspuren werden im Reparaturprozess nicht verdeckt, sondern aufgegriffen und transformiert. <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800754/9.173557)** ↗ <br>
 
 **▣2. Left-over paintings** <br>
