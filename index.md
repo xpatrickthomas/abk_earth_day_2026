@@ -776,9 +776,6 @@ Xx.<br>
 **• 10:00–17:00** <br> 
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
 
-
-[Programme coming soon]
-
 | Time            | Format                  | Title<br>Participant/s                                                                        |  Description     |
 | :-------------  | :------------           | :------------                                                                               | :-----------     |
 | **10:00–<br>10:55** | Vortrag<br>Sprache: DE     | **Aufstieg und Fall des Khmer-Reiches** (prov.)<br>**[Ole W. Fischer](https://www.abk-stuttgart.de/person/ole-w-fischer/)** ↗ <br>Professor für Architektur- und Designgeschichte/Architekturtheorie in der Fachgruppe Architektur, ABK Stuttgart | Description will appear here | 
