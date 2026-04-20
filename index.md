@@ -51,11 +51,11 @@ A knitting circle bringing together experienced knitters and ABK students and st
 
 **★2. Soup-action** <br>
 By **Gerwin Schmidt** <br>
-**• Neubau 1** <br>
-**• Glaskasten** <br>
+**• Hof** <br>
+**• (Vor dem) Neubau 2** <br>
 **• 13:00–15:00** <br> 
 Homemade soup for guest participants of **Knitting – Knowledge Transfer**<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800607/9.175207)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800456/9.175335)** ↗ <br>
 
 **★3. Blue clothing** <br>
 Participation **All visitors to ABK Earth Day** <br>
