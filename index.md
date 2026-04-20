@@ -174,6 +174,15 @@ Wir sammeln Blätter (und Teile) von so vielen Pflanzen, wie wir auf dem ABK-Cam
 **• Alle sind eingeladen mitzumachen!** <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800503/9.173917)** ↗ <br>
 
+**★17.	Action Rosenpflege**🌹 <br>
+Organised by **Aglaja Kneer** & **Alena Schmidt** <br>
+**Treffpunkt: Rosenkübeln/KWR-Pavillon** <br>
+**• 15:30—** <br>
+Wir wollen die Rosen auf dem Campus für den Sommer fit machen. Komm vorbei um mit uns die Rosen zu schneiden, Unkraut zu jäten und ihnen etwas Liebe zu schenken. 
+Kurze Info zu unserem fortlaufenden [Projekt](https://bluetezeit.abk-stuttgart.de/index.html/) <br>
+Wir freuen uns wenn du dabei bist, auch ohne Vorkenntnisse! <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800320/9.174481)** ↗ <br>
+
 **↖ [Back to Index](#index)**
 
 ---
