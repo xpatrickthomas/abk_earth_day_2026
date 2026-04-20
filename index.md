@@ -445,7 +445,7 @@ By **Lisa Helene Wedler** & **Mira Traub** <br>
 (Klasse Choi)<br>
 **• Neubau 2** <br>
 **• 1.25 – Kopierraum** <br>
-**• 10:00–18:00** <br> 
+**• 10:00–20:00** <br> 
 Video projection: contrasts the fragility of the body with man-made destruction, creating tension between vulnerability and power.<br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800188/9.175476)** ↗ <br>
 
@@ -487,9 +487,10 @@ Eine Rauminstallation, die mit wiederverwendetem Material ein Atelier in unwirkl
 By **Ava Will** <br>
 (Klasse Choi) <br>
 **• AKA-Garten** <br>
-**• (Vor dem) Glaskasten** <br>
-**• 10:00–18:00** <br> 
-Ein begehbares Schneckengehäuse, umhüllt von Naturmaterialien, die den Übergang vom Winter zum erwachenden Frühling widerspiegeln und sich in die Umgebung einfügen. <br>A walkable snail shell, enveloped in natural materials that reflect the transition from winter to spring’s awakening and merge with the environment. <br>
+**• Vor dem Bildhauerbau** <br>
+**• 10:00–20:00** <br> 
+Ein begehbares Schneckengehäuse, umhüllt von Naturmaterialien, die den Übergang vom Winter zum erwachenden Frühling widerspiegeln und sich in die Umgebung einfügen. <br>
+A walkable snail shell, enveloped in natural materials that reflect the transition from winter to spring’s awakening and merge with the environment. <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800667/9.174073)** ↗ <br>
 
 **●7. This Could Be Us**, 2026 <br>
