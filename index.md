@@ -374,7 +374,7 @@ By **Textile design department**<br>
 Description will appear here <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800767/9.173697)** ↗ <br>
 
-**▣6. [Title]** <br>
+**▣6. Bicycle Days** <br>
 By **Maximilian Messer**<br>
 **• Bildhauerbau** <br>
 **• Raum 28** <br>
