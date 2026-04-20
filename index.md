@@ -462,7 +462,7 @@ By **Birk Hinnersmann** <br>
 (Klasse Choi) <br>
 **• Neubau2** <br>
 **• Raum 01.17 – Video-/ Foto-Aufnahmestudio** <br>
-**• 10:00–18:00** <br> 
+**• 10:00–20:00** <br> 
 Eine Installation aus Holz und programmierte LEDs, die visuellen Einflüsse des Menschen auf dem Meer bei Nacht widerspiegeln.<br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800770/9.175546)** ↗ <br>
 
