@@ -767,8 +767,8 @@ Join our gel printing workshop: an analogue, environmentally friendly printmakin
 **■10. non-permanent tattoos**
 By **Annalisa Fitz** & **Ida Zimmermann** <br>
 **• Altbau** <br>
-**Raum 120 – ABK Typelab** <br>
-**14:00–16:00** <br>
+**•Raum 120 – ABK Typelab** <br>
+**•14:00–16:00** <br>
 Press a word into your skin with metal letters and feel a brief moment of the pain our world carries <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800338/9.173823)** ↗ <br>
 
