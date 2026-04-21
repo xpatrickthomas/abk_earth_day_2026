@@ -756,6 +756,23 @@ Organised by **AM Moritz Haakh** <br>
 Zu schade zum Wegwerfen! Kleidung ein zweites Leben schenken durch Reparieren und Ausbessern
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.799955/9.174461)** ↗ <br>
 
+**■9.	gel plate printing** <br>
+By **Annalisa Fitz** & **Ida Zimmermann** <br>
+**• Altbau <br>
+**• Raum 120 – ABK Typelab <br>
+**• 10:00–12:00 <br>
+Join our gel printing workshop: an analogue, environmentally friendly printmaking method using an intuitive, playful process with textures, natural materials, and layering <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800338/9.173823)** ↗ <br>
+
+■10. Workshop
+**non-permanent tattoos**
+By **Annalisa Fitz** & **Ida Zimmermann** <br>
+**• Altbau** <br>
+**Raum 120 – ABK Typelab** <br>
+**14:00–16:00** <br>
+Press a word into your skin with metal letters and feel a brief moment of the pain our world carries <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800338/9.173823)** ↗ <br>
+
 **↖ [Back to Index](#index)**
 
 ---
