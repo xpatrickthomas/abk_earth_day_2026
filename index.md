@@ -633,7 +633,7 @@ By **Paula Dischinger** <br>
 **• Graben** <br>
 **• 10:00–20:00** <br>
 A hoodie. Two layers of silk hold 5kg of seeds of all kinds. Pumpkin, Avocado, Cherry; all the seeds I could collect from my daily food waste within one year. The idea was to produce something that gives back more energy than it takes. <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800792, 9.173784)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800132/9.175620)** ↗ <br>
 
 **↖ [Back to Index](#index)**
 
