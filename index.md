@@ -517,7 +517,7 @@ Participant **Laura Neuscheler** & **Dr. -Ing. Leonie Beek, Festo SE & Co KG** <
 **• Neubau 2 – 1UG Graben** <br>
 **• 10:00–17:00** <br> 
 The project translates a biomimetic textile into oil-removal systems. Based on Salvinia molesta, it enables sustainable, reactive and preventive cleanup through three concepts: barrier, mobile and stationary skimmer.<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800139/9.175730)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800088/9.175715)** ↗ <br>
 
 **●9. Earth Piece. Listen to the sound of the earth turning. (Yoko Ono)** <br>
 Realisation **Klasse Thomas**<br>
